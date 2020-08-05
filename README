@@ -1,0 +1,43 @@
+Proiect PA
+
+Shockwave
+
+Constandache Stefan - 324CC
+Iliescu Lucian-Marius - 324CC
+Mihu Florin - 324CC
+
+    Instructiuni de compilare
+
+    Instructiunea de compilare, prezenta si in Makefile-ul din fisierul src
+este urmatoarea: "javac *.java".
+    Pentru ca proiectul sa poata functiona, Makefile-ul trebuie rulat din
+fisierul src, folosind comanda "make run".
+    Fisierele .class pot fi sterse din proiect, folosind comanda "make clean".
+
+    Etapa 1
+
+    Intr-o bucla infinita se citesc comenzi de la tastatura, iar engine-ul va
+trata fiecare comanda in parte. In cazul unei mutari, se verifica ce culoare
+are engine-ul, iar acesta cauta mutari valide pe care sa le faca. Dupa ce
+utilizatorul sau engine-ul face o miscare, se actualizeaza matricea
+corespunzatoare tablei, cat si vectorul de piese albe/negre. In cazul in care
+este capturat un pion, engine-ul muta alt pion, altfel daca nu poate muta
+primul pion engine-ul da resign. In modul force, se citesc comenzi la infinit,
+actualizandu-se vectorii si matricea la fiecare comanda, iar atunci cand se da
+white/black, si apoi go se iese din bucla, iar engine-ul ales face o mutare,
+fara sa mai analizeze ultima miscare a adversarului, deoarece aceasta a fost
+analizata in modul force.
+
+    Etapa 2
+
+    Am implementat miscari valide pentru fiecare piesa ramasa si am atribuit 
+fiecarei piese un scor. Am utilizat algoritmul negamax pentru a explora 
+miscarile posibile si pentru a o alege pe cea cu scorul cel mai mare. Functia 
+de evaluare utilizata de catre algoritm se foloseste de scorul pieselor. 
+Functia aduna scorurile pieselor jucatorului si scade din rezultat suma 
+pieselor adversarului.
+
+    Responsabilitatea membrilor
+
+    Toti membrii au lucrat in mod egal la acest proiect, toata implementarea
+fiind realizata in cadrul unor intalniri online.

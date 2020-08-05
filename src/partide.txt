@@ -1,0 +1,2339 @@
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nf3 {+0.10/2} a5 2. a4 {+0.06/2 0.1} b6 3. d3 {+0.03/2 0.1} c5 4. Nc3
+{+0.00/2 0.1} d5 5. Bf4 {+0.00/2 0.1} c4 6. dxc4 {+0.23/2 0.1} d4 7. Nxd4
+{+1.36/2 0.1} Nc6 8. Nxc6 {+4.02/2 0.1} Qd7 9. Ne5 {+4.13/2 0.1} Qc7 10.
+Nxf7 {+5.33/2 0.1} Qxc4 11. Nxh8 {+5.41/2 0.1} Qxf4 12. Qd5 {+8.13/2 0.1}
+Ra6 13. Qxg8 {+7.99/2 0.1} h5 14. e3 {+9.66/2 0.1} Qg4 15. Qf7+
+{+11.95/2 0.1} Kd8 16. Qxf8+ {+12.68/2 0.1} Kd7 17. Rd1+ {+12.73/2 0.1} Kc7
+18. Bxa6 {+13.52/2 0.1} Bxa6 19. Qxe7+ {+13.48/2 0.1} Kc8 20. Rd8#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c4 {+0.14/2} a5 2. d4 {+0.12/2 0.1} a4 3. Nc3 {+0.13/2 0.1} a3 4. bxa3
+{+0.47/2 0.1} b6 5. Nf3 {+0.71/2 0.1} c6 6. g4 {+0.67/2 0.1} d6 7. h3
+{+0.65/2 0.1} e6 8. Bg5 {+0.73/2 0.1} f6 9. Bc1 {+0.48/2 0.1} g5 10. Ne4
+{+0.66/2 0.1} h6 11. Bg2 {+0.63/2 0.1} Nd7 12. O-O {+0.88/2 0.1} Nb8 13.
+Bb2 {+0.61/2 0.1} Nd7 14. Rb1 {+0.62/2 0.1} Nb8 15. Rc1 {+0.62/2 0.1} Nd7
+16. Ra1 {+0.62/2 0.1} Nb8 17. Qe1 {+0.62/2 0.1} Nd7 18. Rb1 {+0.62/2 0.1}
+Nb8 19. Rc1 {+0.62/2 0.1} Nd7 20. Rc2 {+0.62/2 0.1} Nb8 21. Rc3
+{+0.62/2 0.1} Nd7 22. Qc1 {+0.62/2 0.1} Nb8 23. Qd1 {+0.62/2 0.1} Nd7 24.
+Qd3 {+0.62/2 0.1} Nb8 25. Rcc1 {+0.62/2 0.1} Nd7 26. Rcd1 {+0.62/2 0.1} Nb8
+27. Rde1 {+0.62/2 0.1} Nd7 28. Qe3 {+0.62/2 0.1} Nb8 29. Rc1 {+0.62/2 0.1}
+Nd7 30. Nc3 {+0.65/2 0.1} Nb8 31. d5 {+0.65/2 0.1} cxd5 32. Nxd5
+{+0.79/2 0.1} b5 33. Nb6 {+1.56/2 0.1} Rxa3 34. Bxa3 {+4.50/2 0.1} Bb7 35.
+Qxe6+ {+5.20/2 0.1} Ne7 36. Qxf6 {+6.23/2 0.1} Rh7 37. Qxd6 {+6.77/2 0.1}
+Bxf3 38. Qxd8+ {+7.31/2 0.1} Kxd8 39. Bxf3 {+7.15/2 0.1} bxc4 40. Rcd1+
+{+7.26/2 0.1} Nd7 41. Rxd7+ {+9.21/2 0.1} Ke8 42. Rc7 {+9.65/2 0.1} Nf5 43.
+Bc6+ {+13.18/2 0.1} Rd7 44. Bxd7+ {+13.99/2 0.1} Kd8 45. Rc8#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "6"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c4 {+0.13/2} a5 2. d4 {+0.13/2 0.1} a4 3. Bg5 {+0.12/2 0.1} a3 4. Nxa3
+{+0.62/2 0.1} b6 5. Nf3 {+0.71/2 0.1} c5 6. Be3 {+0.71/2 0.1} cxd4 7. Qxd4
+{+0.74/2 0.1} d5 8. Qxd5 {+1.43/2 0.1} Rxa3 9. Qxd8+ {+3.43/2 0.1} Kxd8 10.
+Bxb6+ {+4.03/2 0.1} Ke8 11. bxa3 {+3.84/2 0.1} e5 12. Nxe5 {+4.07/2 0.1}
+Bxa3 13. f4 {+4.03/2 0.1} f5 14. Bd4 {+4.02/2 0.1} g6 15. Nd3 {+6.47/2 0.1}
+Nf6 16. Bxf6 {+6.64/2 0.1} Rf8 17. Bg7 {+6.59/2 0.1} h5 18. Bxf8
+{+7.97/2 0.1} Bxf8 19. O-O-O {+8.25/2 0.1} h4 20. Ne5 {+8.21/2 0.1} g5 21.
+fxg5 {+8.70/2 0.1} f4 22. g6 {+9.34/2 0.1} h3 23. gxh3 {+10.18/2 0.1} f3
+24. exf3 {+10.87/2 0.1} Na6 25. f4 {+10.95/2 0.1} Nb8 26. Kd2
+{+10.94/2 0.1} Na6 27. a4 {+10.90/2 0.1} Nb8 28. a5 {+10.93/2 0.1} Na6 29.
+Ke3 {+10.90/2 0.1} Nb8 30. Bg2 {+10.88/2 0.1} Na6 31. Bc6+ {+10.98/2 0.1}
+{Xboard: Forfeit due to invalid move: e8d8 (e8d8 via `0) res=24} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "8"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.11/2} a5 2. Nd5 {+0.05/2 0.1} a4 3. f4 {+0.02/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b5 5. c3 {+0.72/2 0.1} c5 6. Rb1 {+0.73/2 0.1} b4 7. axb4
+{+1.43/2 0.1} c4 8. e4 {+1.47/2 0.1} d6 9. Bxc4 {+2.16/2 0.1} e6 10. Ne3
+{+2.06/2 0.1} f6 11. Qh5+ {+2.25/2 0.1} g6 12. Qh3 {+2.14/2 0.1} e5 13. Qh4
+{+2.17/2 0.1} exf4 14. Qxf4 {+2.07/2 0.1} g5 15. Qf3 {+2.07/2 0.1} g4 16.
+Nxg4 {+2.80/2 0.1} d5 17. Bxd5 {+3.73/2 0.1} Ra4 18. Bxg8 {+3.93/2 0.1}
+Rxg8 19. Nxf6+ {+6.23/2 0.1} Ke7 20. Nxg8+ {+8.53/2 0.1} Kd7 21. Nf6+
+{+9.36/2 0.1} Ke7 22. Nxh7 {+9.10/2 0.1} Bg7 23. Qg3 {+11.09/2 0.1} Rxa2
+24. Qxg7+ {+11.75/2 0.1} Ke8 25. Nf6+ {+17.50/2 0.1} Qxf6 26. Qxf6
+{+17.25/2 0.1} Na6 27. Qe5+ {+17.66/2 0.1} Kf8 28. Qh8+ {+20.48/2 0.1} Kf7
+29. Qxc8 {+20.35/2 0.1} Kg7 30. b5 {+22.72/2 0.1} Nb8 31. Qxb8
+{+22.94/2 0.1} Ra4 32. d4 {+22.93/2 0.1} Ra2 33. Ne2 {+22.97/2 0.1} Ra4 34.
+b6 {+23.49/2 0.1} Ra2 35. b7 {+24.11/2 0.1} Ra4 36. O-O {+24.34/2 0.1} Ra2
+37. Qg3+ {+24.26/2 0.1} Kh7 38. b8=Q {+28.12/2 0.1}
+{xboard exit (Clocks: 372, 221)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. f4 {+0.12/2}
+{xboard exit (Clocks: 301, 208)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.11/2}
+{xboard exit (Clocks: 301, 209)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. b4 b6 2. c4 a6 3. a4 c6 4. e4 d6 5. f4 e6 6. e5 dxe5 7. fxe5 Bxb4 8. g4
+a5 9. Qb3 Bc5 10. g5
+{White wins on time} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "300+2"]
+[Annotator "1... +0.27"]
+
+1. b4 a5 {+0.27/9 7}
+{xboard exit (Clocks: 299, 294)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "make"]
+[Black "florin"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c5 2. b3 d5 3. c3 b6 4. d3 Nh6 5. e3 b5 6. axb5 a5 7. f4 f6 8. g3 g6
+{Error: first chess program (make run) exited unexpectedly} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "make"]
+[Black "florin"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 Nc6 2. b3 Nd4 3. a5 a6 4. b4 b5 5. c4 bxc4 6. e4 e5 7. g4 g5 8. h3
+Nb5 9. f3 Rb8 10. Ra2 Nf6 11. d4 exd4 12. Bxc4 Rb6
+{Error: first chess program (make run) exited unexpectedly} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. e4 a5 2. b3 b6 3. c4
+{xboard exit (Clocks: 299, 257)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. c4 a5 2. d3 a4 3. Qxa4 Rxa4 4. b3 Ra5 5. a3 b6 6. b4 Ra6 7. a4 c6 8. d4
+d6 9. e4 e6 10. f4 f6 11. g4 g6 12. h4 h6 13. Be3 Nd7 14. Nc3 Nb8 15. c5
+bxc5 16. b5 cxb5 17. Nxb5 cxd4 18. Bxd4 Nc6 19. Bc3 Nb8 20. Nd4 Ra7 21. Bb4
+Ne7 22. Nb5 Ra8 23. Nxd6+ Kd7 24. a5 Nf5 25. Nf7
+{Error: first chess program (make run) exited unexpectedly} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. b4 a5 2. bxa5 b5 3. c3 c5 4. Ba3 c4 5. d4 d5 6. Nf3 f5 7. Bc5 f4 8. Nbd2
+g6 9. Nb1 h5 10. Na3 b4 11. cxb4 c3 12. Rc1 c2 13. Rxc2 h4 14. h3 Nc6 15.
+Nxh4 Rxh4 16. f3 g5 17. Rc3 Nb8 18. Nb5 Nc6 19. Rd3 Nb8 20. Ra3 Nc6 21. a6
+Nb8 22. Qd3 Nxa6 23. Qg6+ Kd7 24. Nc3 g4 25. Qxg8 gxh3 26. gxh3 Nxb4 27.
+Bxb4 Rxa3 28. Bxa3 Kc7 29. Nxd5+ Kd7 30. Nxe7 Bb7 31. Nf5 Bxa3
+{Black wins on time} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d5 {+0.12/2 0.1} 2. b3 Nd7 {+0.14/2 0.1} 3. c3 a5 {+0.01/2 0.1} 4. d4
+Ngf6 {-0.02/2 0.1} 5. e3 c5 {-0.08/2 0.1} 6. dxc5 Nxc5 {-0.11/2 0.1}
+{Black wins on time} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c4 {+0.11/2} a5 2. Nf3 {+0.03/2 0.2} a4 3. Nc3 {+0.69/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. g4 {+0.66/2 0.1} c5 6. d4 {+0.66/2 0.1} cxd4 7. Nxd4
+{+0.62/2 0.2} d6 8. Bg2 {+0.77/2 0.1} d5 9. Bxd5 {+1.57/2 0.1} Ra5 10. Nb3
+{+2.05/2 0.2} Ra6 11. Bxf7+ {+7.85/2 0.1} Kxf7 12. Qxd8 {+7.76/2 0.1} Bxg4
+13. Qxb8 {+9.49/2 0.2} e6 14. Qb7+ {+13.95/2 0.1} Ne7 15. Qxa6
+{+14.74/2 0.2} b5 16. Qxb5 {+14.75/2 0.1} Nf5 17. Qb7+ {+14.98/2 0.2} Kf6
+18. Ne4+ {+15.14/2 0.1} Kg6 19. f3 {+14.94/2 0.1} Bh5 20. Rg1+
+{+17.49/2 0.1} Ng3 21. Nxg3 {+17.88/2 0.2} e5 22. Qe4+ {+20.48/2 0.1} Kf6
+23. Nxh5+ {+21.23/2 0.1} Ke6 24. Nxg7+ {+21.37/2 0.1} Kf6 25. Qf5+
+{+22.05/2 0.1} Ke7 26. Qxe5+ {+22.13/2 0.1} Kf7 27. Qe6# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 f5 {+0.07/2 0.1} 2. b3 Nc6 {+0.15/2 0.1} 3. c4 Nf6 {-0.05/2 0.1}
+{xboard exit (Clocks: 227, 305)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c6 {+0.08/2 0.1} 2. a5 Nf6 {+0.11/2 0.1} 3. a6 Nxa6 {+0.68/2 0.1} 4.
+b3 d5 {+0.74/2 0.1} 5. c4 Be6 {+0.83/2 0.1} 6. cxd5 Qxd5 {+0.74/2 0.1} 7.
+d4 Qxb3 {+1.32/2 0.1} 8. Rxa6 Qxd1+ {+3.43/2 0.1} 9. Kxd1 Bb3+
+{+3.29/2 0.1} 10. Ke1 bxa6 {+3.10/2 0.1} 11. e4 Nxe4 {+3.33/2 0.1} 12. Bxa6
+f5 {+3.29/2 0.2} 13. f4 Bd5 {+3.28/2 0.1} 14. g3 Nd6 {+5.73/2 0.1} 15. Nf3
+Bxf3 {+5.90/2 0.1} 16. Rf1 Bg2 {+5.85/2 0.1} 17. h4 Bxf1 {+7.23/2 0.1} 18.
+Bxf1 O-O-O {+7.51/2 0.2} 19. h5 Nb5 {+7.61/2 0.1} 20. d5 Rxd5 {+8.00/2 0.1}
+{Error: first chess program (make run) exited unexpectedly} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c5 {+0.15/2 0.1} 2. a5 Nc6 {+0.67/2 0.1} 3. a6 bxa6 {+0.70/2 0.1} 4.
+b3 f5 {+0.74/2 0.1} 5. c4 Nf6 {+0.71/2 0.1} 6. d3 Ne5 {+0.65/2 0.1} 7. e3
+g5 {+0.66/2 0.1} 8. f3 Bg7 {+0.62/2 0.1} 9. g3 O-O {+0.85/2 0.1} 10. h3 Nh5
+{+0.65/2 0.1} 11. b4 Nxd3+ {+3.01/2 0.1} 12. Bxd3 Bxa1 {+3.12/2 0.1} 13.
+bxc5 Nxg3 {+3.36/2 0.1} 14. Rh2 Qa5+ {+3.75/2 0.1} 15. Nd2 Be5
+{+4.24/2 0.1} 16. c6 dxc6 {+3.91/2 0.1} 17. Rf2 Qc3 {+4.13/2 0.1} 18. Bc2
+Qxe3+ {+4.84/2 0.1} 19. Ne2 Be6 {+4.88/2 0.1} 20. Ne4 Rad8 {+2.74/2 0.2}
+21. Qxd8 Qxc1+ {+3.42/2 0.2} 22. Nxc1 Rxd8 {+3.26/2 0.2}
+{Error: first chess program (make run) exited unexpectedly} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "300+2"]
+[Annotator "1... +0.12"]
+
+1. e4 c6 {+0.12/8 5}
+{xboard exit (Clocks: 295, 297)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. d4 a5 2. c4 a4 3. b4 a3 4. Bxa3 b5 5. Nc3 Rxa3 6. Qd3 bxc4 7. O-O-O cxd3
+8. Rxd3
+{Error: first chess program (make run) exited unexpectedly} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. d4 a5 2. c4 a4 3. b4 a3 4. Nxa3 b6 5. Be3 Rxa3 6. Qd2 b5 7. O-O-O bxc4
+8. Re1 c3 9. Qxc3 Rxc3+ 10. Kd1 e5 11. Kd2 Rc4 12. Rc1 Rxb4 13. Rxc7 Qxc7
+14. a3 Rxd4+ 15. Bxd4 exd4 16. f4 Bxa3 17. Kd3 d5 18. e4 dxe4+ 19. Kxd4 e3
+20. Kxe3 f5 21. Nh3 g6 22. g3 h5 23. Rg1 Nc6 24. Rg2 Nd8 25. Ra2 Bb4 26.
+Rb2 Bc5+ 27. Kd3 Ne6 28. Rc2 g5 29. Be2 gxf4 30. Nxf4 Nxf4+ 31. gxf4 Qxf4
+32. Rxc5 Bd7 33. Rb5 Bxb5+ 34. Kc2 Bxe2 35. h3 h4 36. Kb3 Nh6 37. Kc2 Ng8
+38. Kc3 Nh6 39. Kb3 Ng8 40. Ka3 Nh6 41. Kb2 Ng8 42. Ka1 Nh6 43. Kb1 Ng8 44.
+Kc2 Nh6 45. Kc3 Ng8 46. Kc2 Nh6 47. Kb3 Ng8 48. Ka3 Nh6 49. Kb2 Ng8 50. Kc3
+Nh6 51. Kb2 Ng8 52. Kc3 Nh6 53. Kc2 Ng8 54. Kc3 Nh6
+{xboard exit (Clocks: 126, 329)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 Nc6 {+0.11/2 0.1} 2. a5 d5 {+0.09/2 0.1} 3. a6 bxa6 {+0.31/2 0.1} 4.
+b3 Nf6 {+0.71/2 0.1} 5. c3 e5 {+0.67/2 0.1} 6. b4 Bf5 {+0.75/2 0.1} 7. d3
+Qc8 {+0.60/2 0.1} 8. e3 Bd6 {+0.70/2 0.1} 9. f3 O-O {+0.86/2 0.1} 10. g4
+Be6 {+0.59/2 0.1} 11. g5 Nd7 {+0.56/2 0.1} 12. h4 f5 {+0.67/2 0.1} 13. h5
+d4 {+0.64/2 0.1} 14. cxd4 Bxb4+ {+1.11/2 0.1} 15. Nd2 Bc3 {+1.41/2 0.1} 16.
+Ra3 Bxd2+ {+0.92/2 0.1} 17. Bxd2 exd4 {+0.48/2 0.1} 18. exd4 Nxd4
+{+0.61/2 0.1} 19. f4 Bd5 {+1.12/2 0.1} 20. Rh2 Re8+ {+1.09/2 0.1} 21. Kf2
+Nb5 {+1.03/2 0.1} 22. Ra1 c5 {+0.64/2 0.1} 23. Nh3 Qc6 {+1.04/2 0.1} 24.
+Ng1 Re6 {+0.98/2 0.1} 25. Nh3 Nd4 {+1.14/2 0.1} 26. Ng1 Nb3 {+1.41/2 0.1}
+27. Rxa6 Qxa6 {+4.76/2 0.1} 28. d4 Qc6 {+5.18/2 0.1} 29. Bc3 cxd4
+{+5.19/2 0.1} 30. Bb4 Qb6 {+5.57/2 0.1} 31. Ba3 d3+ {+8.88/2 0.1} 32. Kg3
+Qxg1+ {+9.56/2 0.1} 33. Kh3 Re3+ {+13.39/2 0.1} 34. Kh4 Qg3#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c5 {+0.10/2 0.1} 2. a5 Nc6 {+0.69/2 0.1} 3. a6 bxa6 {+0.65/2 0.1} 4.
+b3 f5 {+0.74/2 0.1} 5. c4 Nf6 {+0.71/2 0.1} 6. d3 Ne5 {+0.65/2 0.1} 7. e3
+g5 {+0.66/2 0.1} 8. f3 Bg7 {+0.62/2 0.1} 9. g3 O-O {+0.85/2 0.1} 10. h3 Nh5
+{+0.65/2 0.1} 11. b4 Nxd3+ {+3.01/2 0.1} 12. Bxd3 Bxa1 {+3.12/2 0.1} 13.
+bxc5 Nxg3 {+3.36/2 0.1} 14. Rh2 Qa5+ {+3.75/2 0.1} 15. Nd2 Be5
+{+4.24/2 0.1} 16. c6 dxc6 {+3.91/2 0.1} 17. Rf2 Qc3 {+4.13/2 0.1} 18. Bc2
+Qxe3+ {+4.84/2 0.1} 19. Ne2 Be6 {+4.88/2 0.1} 20. Ne4 Rad8 {+2.74/2 0.1}
+21. Bxe3 Rxd1+ {+2.74/2 0.1} 22. Bxd1 fxe4 {+2.74/2 0.1} 23. fxe4 Rxf2
+{+3.07/2 0.1} 24. Nxg3 Rg2 {+4.05/2 0.1} 25. Nh5 Bxc4 {+4.28/2 0.1} 26.
+Bxa7 Bc3# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nf3 {+0.12/2} a5 2. Nc3 {+0.12/2 0.1} a4 3. d4 {+0.08/2 0.1} a3 4. bxa3
+{+0.47/2 0.1} b6 5. e4 {+0.66/2 0.1} c6 6. Bd3 {+0.70/2 0.1} b5 7. O-O
+{+0.86/2 0.1} d6 8. h4 {+0.67/2 0.1} e6 9. Bg5 {+0.73/2 0.1} f6 10. Bc1
+{+0.48/2 0.1} g6 11. Bb2 {+0.61/2 0.1} h5 12. Ne2 {+0.60/2 0.1} Nd7 13. Nf4
+{+0.93/2 0.1} b4 14. Nxe6 {+1.79/2 0.1} Qe7 15. Nc7+ {+5.80/2 0.1} Kd8 16.
+Nxa8 {+5.72/2 0.1} bxa3 17. Bxa3 {+5.84/2 0.1} Nb8 18. Nb6 {+5.95/2 0.1}
+Bb7 19. Nc4 {+5.99/2 0.1} Na6 20. Bxd6 {+6.81/2 0.1} Qf7 21. a4
+{+6.65/2 0.1} Bg7 22. Na5 {+6.86/2 0.1} Bc8 23. Nxc6+ {+7.49/2 0.1} Ke8 24.
+Bf4 {+7.32/2 0.1} f5 25. Nce5 {+7.46/2 0.1} Qe7 26. Nxg6 {+9.88/2 0.1} Qf7
+27. Nxh8 {+10.56/2 0.1} Bxh8 28. Ng5 {+10.52/2 0.1} Qg7 29. Qxh5+
+{+10.87/2 0.1} Kf8 30. Nh7+ {+10.75/2 0.1} Ke7 31. Be5 {+13.31/2 0.1} Nf6
+32. Bxf6+ {+16.18/2 0.1} Qxf6 33. Nxf6 {+16.20/2 0.1} Bxf6 34. e5
+{+16.94/2 0.1} Bg7 35. Qg6 {+18.39/2 0.1} Bh8 36. Qh7+ {+19.12/2 0.1} Bg7
+37. Qxg7+ {+19.20/2 0.1} Ke8 38. Qg6+ {+21.61/2 0.1} Kf8 39. Qc6
+{+21.74/2 0.1} Nc7 40. Qd6+ {+21.76/2 0.1} Kg8 41. Qd8+ {+22.10/2 0.1} Ne8
+42. Qxe8+ {+24.72/2 0.1} Kg7 43. Qxc8 {+24.78/2 0.1} f4 44. Qf5
+{+25.53/2 0.1} f3 45. Qf6+ {+25.58/2 0.1}
+{Error: first chess program (make run) exited unexpectedly} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d5 {+0.12/2 0.1} 2. a5 Nd7 {+0.06/2 0.1} 3. a6 bxa6 {+0.47/2 0.1} 4.
+b4 c5 {+0.75/2 0.1} 5. bxc5 Nxc5 {+0.61/2 0.1} 6. c3 Bf5 {+0.73/2 0.1} 7.
+d4 Ne4 {+0.63/2 0.1} 8. e3 Rb8 {+0.61/2 0.1} 9. f4 Qc7 {+0.58/2 0.1} 10. g4
+Nxc3 {+1.29/2 0.1} 11. Nxc3 Qxc3+ {-0.95/2 0.1} 12. Bd2 Bxg4 {-0.96/2 0.1}
+13. Qxg4 Qxa1+ {+3.90/2 0.1} 14. Ke2 Nf6 {+3.83/2 0.1} 15. Qh4 Ne4
+{+3.77/2 0.1} 16. Be1 Qa2+ {+3.95/2 0.1} 17. Kf3 f5 {+3.69/2 0.1} 18. h3 g6
+{+3.67/2 0.1} 19. Ne2 Nd2+ {+3.94/2 0.1} 20. Bxd2 Qxd2 {+4.04/2 0.1} 21.
+Ng3 Rb3 {+4.11/2 0.1} 22. Bxa6 Rxe3# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. f3 {+0.13/2} a5 2. c4 {+0.12/2 0.1} a4 3. Nc3 {+0.72/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. g4 {+0.66/2 0.1} c5 6. Ne4 {+0.65/2 0.1} d6 7. Nh3
+{+0.64/2 0.1} e5 8. Nhg5 {+0.66/2 0.1} b5 9. cxb5 {+1.21/2 0.1} c4 10. Qc2
+{+1.43/2 0.1} c3 11. Qxc3 {+2.08/2 0.1} d5 12. Qxe5+ {+2.84/2 0.1} Kd7 13.
+Qxd5+ {+8.03/2 0.1} Bd6 14. Qxa8 {+8.66/2 0.1} Be7 15. Qd5+ {+9.12/2 0.1}
+Kc7 16. Qxd8+ {+9.15/2 0.1} Bxd8 17. Nxf7 {+8.81/2 0.1} g5 18. Nxh8
+{+13.04/2 0.1} h6 19. Nf7 {+13.39/2 0.1} Be7 20. Ne5 {+13.25/2 0.1} Bb7 21.
+Ng6 {+13.38/2 0.1} Bd8 22. Ne5 {+13.24/2 0.1} h5 23. gxh5 {+13.85/2 0.1} g4
+24. Nxg4 {+14.62/2 0.1} Nd7 25. h6 {+15.26/2 0.1} Nf8 26. d4 {+15.34/2 0.1}
+Ng6 27. h7 {+15.92/2 0.1} N8e7 28. Be3 {+16.08/2 0.1} Nh8 29. Bf4+
+{+16.30/2 0.1} Kd7 30. Nc5+ {+16.77/2 0.1} Ke8 31. Nf6+ {+19.08/2 0.1} Kf8
+32. Ne6+ {+19.08/2 0.1} Kf7 33. Nxd8+ {+19.43/2 0.1} Kg7 34. Nxb7
+{+19.35/2 0.1} Kxf6 35. Be5+ {+19.89/2 0.1} Kg6 36. Bxh8 {+19.90/2 0.1} Nf5
+37. b6 {+20.70/2 0.1} Ng7 38. Rg1+ {+23.40/2 0.1} Kh6 39. Rxg7
+{+25.21/2 0.1}
+{Error: first chess program (make run) exited unexpectedly} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "1"]
+[White "make"]
+[Black "fairymax"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d6 {+0.12/2 0.1} 2. a5 f5 {+0.06/2 0.1} 3. a6 Nxa6 {+0.61/2 0.1} 4.
+b3 c5 {+0.74/2 0.1} 5. c4 Be6 {+0.72/2 0.1} 6. d4 Nf6 {+0.72/2 0.1} 7. d5
+Bf7 {+0.54/2 0.1} 8. e4 Nxe4 {+1.36/2 0.1} 9. f4 Nb4 {+1.43/2 0.1} 10. g3
+e6 {+1.42/2 0.1} 11. dxe6 Bxe6 {+1.39/2 0.1} 12. h4 Nxg3 {+2.66/2 0.1} 13.
+Rh2 Nxf1 {+2.68/2 0.1} 14. Kxf1 Qf6 {+2.58/2 0.1} 15. Ra3 Be7 {+2.52/2 0.1}
+16. h5 O-O {+2.71/2 0.1} 17. Nd2 Nd3 {+2.78/2 0.1} 18. b4 Nxc1
+{+3.50/2 0.1} 19. b5 Qb2 {+5.55/2 0.1} 20. Ra4 Nd3 {+5.58/2 0.1} 21. b6
+axb6 {+6.29/2 0.1} 22. h6 Rxa4 {+6.95/2 0.1} 23. Qxa4 Qc1+ {+8.36/2 0.1}
+24. Kg2 Qxd2+ {+9.13/2 0.1} 25. Kg3 Qxf4+ {+10.46/2 0.1} 26. Kg2 Bd5+
+{+10.57/2 0.1} 27. Nf3 Bxf3+ {+13.05/2 0.1} 28. Kg1 Qc1+ {+20.07/2 0.1} 29.
+Qd1 Qxd1# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c4 {+0.10/2} a5 2. Nf3 {+0.05/2 0.1} a4 3. Nc3 {+0.72/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. g4 {+0.66/2 0.1} c5 6. d4 {+0.66/2 0.1} cxd4 7. Nxd4
+{+0.62/2 0.1} d6 8. Bg2 {+0.77/2 0.1} d5 9. Bxd5 {+1.57/2 0.1} Ra5 10. Nb3
+{+2.05/2 0.1} Ra6 11. Bxf7+ {+7.85/2 0.1} Kxf7 12. Qxd8 {+7.76/2 0.1} Bxg4
+13. Qxb8 {+9.49/2 0.1} e6 14. Qb7+ {+13.95/2 0.1} Ne7 15. Qxa6
+{+14.74/2 0.1} b5 16. Qxb5 {+14.75/2 0.1} Nf5 17. Qb7+ {+14.98/2 0.1} Kf6
+18. Ne4+ {+15.14/2 0.1} Kg6 19. f3 {+14.94/2 0.1} Bh5 20. Rg1+
+{+17.49/2 0.1} Ng3 21. Nxg3 {+17.88/2 0.1} e5 22. Qe4+ {+20.48/2 0.1} Kf6
+23. Nxh5+ {+21.23/2 0.1} Ke6 24. Nxg7+ {+21.37/2 0.1} Kf6 25. Qf5+
+{+22.05/2 0.1} Ke7 26. Qxe5+ {+22.13/2 0.1} Kf7 27. Qe6# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 a5 {+0.05/2 0.1} 2. b3 Nc6 {+0.03/2 0.1} 3. c4 Ne5 {+0.05/2 0.1} 4.
+c5 d5 {+0.00/2 0.1} 5. d4 Ng4 {-0.19/2 0.1} 6. e4 dxe4 {+0.51/2 0.1} 7. b4
+axb4 {+1.31/2 0.1} 8. a5 e5 {+1.50/2 0.1} 9. a6 bxa6 {+2.06/2 0.1} 10. c6
+Qxd4 {+2.23/2 0.1} 11. Rxa6 Qxf2# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.15/2} a5 2. f3 {+0.08/2 0.1} a4 3. Nh3 {+0.00/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. Nf4 {+0.68/2 0.1} c5 6. e4 {+0.66/2 0.1} d6 7. Bb5+
+{+0.89/2 0.1} Nd7 8. O-O {+0.87/2 0.1} e5 9. Bc6 {+0.77/2 0.1} Rb8 10. Nfd5
+{+0.61/2 0.1} b5 11. Nxb5 {+1.32/2 0.1} c4 12. Nbc7+ {+7.29/2 0.1} Qxc7 13.
+Nxc7+ {+7.53/2 0.1} Kd8 14. Nd5 {+7.36/2 0.1} f6 15. Qe2 {+7.41/2 0.1} c3
+16. Nxc3 {+7.99/2 0.1} d5 17. Nxd5 {+8.83/2 0.1} f5 18. exf5 {+9.43/2 0.1}
+Nc5 19. Qxe5 {+10.49/2 0.1} Rb7 20. Qe8# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "5"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c6 {+0.13/2 0.1} 2. a5 f6 {+0.06/2 0.1} 3. a6 bxa6 {+0.58/2 0.1} 4.
+b4 Qb6 {+0.69/2 0.1} 5. b5 axb5 {+1.42/2 0.1} 6. c3 g5 {+1.41/2 0.1} 7. d4
+Nh6 {+1.39/2 0.1} 8. e4 Nf7 {+1.38/2 0.1} 9. f3 Nd6 {+1.38/2 0.1} 10. g4 h5
+{+1.38/2 0.1} 11. gxh5 Bg7 {+1.36/2 0.1} 12. c4 Nxc4 {+1.52/2 0.1} 13. d5
+Rxh5 {+2.07/2 0.1} 14. f4 Rh4 {+2.09/2 0.1} 15. dxc6 Nxc6 {+2.24/2 0.1} 16.
+fxg5 Rxe4+ {+2.76/2 0.1} 17. Ne2 fxg5 {+2.87/2 0.1} 18. Nc3 Bxc3+
+{+8.44/2 0.1} 19. Bd2 Bxd2+ {+11.57/2 0.1} 20. Qxd2 Nxd2 {+11.59/2 0.1} 21.
+Kxd2 Qe3+ {+11.75/2 0.1} 22. Kc2 Rc4+ {+11.75/2 0.1} 23. Nc3 Qxc3+
+{+14.36/2 0.1} 24. Kd1 Qxa1+ {+18.63/2 0.1} 25. Kd2 Qc3+ {+18.49/2 0.1} 26.
+Kd1 Qf3+ {+21.34/2 0.1} 27. Ke1 Qxh1 {+22.91/2 0.1} 28. h3 Rf4
+{+25.83/2 0.1} 29. h4 Qxf1+ {+26.58/2 0.1} 30. Kd2 Rxh4 {+26.59/2 0.1}
+{Error: first chess program (make run) exited unexpectedly} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c6 {+0.13/2 0.1} 2. a5 f6 {+0.12/2 0.1} 3. a6 b5 {+0.81/2 0.1} 4. b4
+Nxa6 {+0.73/2 0.1} 5. c4 Nxb4 {+1.54/2 0.1} 6. c5 d6 {+1.52/2 0.1} 7. cxd6
+e5 {+1.39/2 0.1} 8. d7+ Bxd7 {+1.42/2 0.1} 9. d3 Bd6 {+1.43/2 0.1} 10. e4
+Ne7 {+1.43/2 0.1} 11. f3 O-O {+1.59/2 0.1} 12. g4 Be6 {+1.38/2 0.1} 13. h4
+Qe8 {+1.33/2 0.1} 14. h5 Qd7 {+1.33/2 0.1} 15. Nc3 Rab8 {+1.34/2 0.1} 16.
+Nb1 Rbc8 {+1.34/2 0.1} 17. Nc3 Rcd8 {+1.34/2 0.1} 18. Nb1 Bc5 {+1.47/2 0.1}
+19. Nc3 Nxd3+ {+2.54/2 0.1} 20. Bxd3 Qxd3 {+2.50/2 0.1} 21. Nxb5 Qxd1#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. d4 {+0.10/2} a5 2. Nd2 {+0.09/2 0.1} a4 3. c4 {+0.08/2 0.1} a3 4. bxa3
+{+0.47/2 0.1} b6 5. Ngf3 {+0.71/2 0.1} c6 6. g4 {+0.67/2 0.1} d6 7. h3
+{+0.65/2 0.1} e6 8. Ne4 {+0.67/2 0.1} f6 9. Bg2 {+0.63/2 0.1} g5 10. O-O
+{+0.86/2 0.1} h6 11. Bb2 {+0.61/2 0.1} Nd7 12. Rb1 {+0.62/2 0.1} Nb8 13.
+Rc1 {+0.62/2 0.1} Nd7 14. Ra1 {+0.62/2 0.1} Nb8 15. Qe1 {+0.62/2 0.1} Nd7
+16. Rb1 {+0.62/2 0.1} Nb8 17. Rc1 {+0.62/2 0.1} Nd7 18. Rc2 {+0.62/2 0.1}
+Nb8 19. Rc3 {+0.62/2 0.1} Nd7 20. Qc1 {+0.62/2 0.1} Nb8 21. Qd1
+{+0.62/2 0.1} Nd7 22. Qd3 {+0.62/2 0.1} Nb8 23. Rcc1 {+0.62/2 0.1} Nd7 24.
+Rcd1 {+0.62/2 0.1} Nb8 25. Rde1 {+0.62/2 0.1} Nd7 26. Qe3 {+0.62/2 0.1} Nb8
+27. Rc1 {+0.62/2 0.1} Nd7 28. Nc3 {+0.65/2 0.1} Nb8 29. d5 {+0.65/2 0.1}
+cxd5 30. Nxd5 {+0.79/2 0.1} b5 31. Nb6 {+1.56/2 0.1} Rxa3 32. Bxa3
+{+4.50/2 0.1} Bb7 33. Qxe6+ {+5.20/2 0.1} Ne7 34. Qxf6 {+6.23/2 0.1} Rh7
+35. Qxd6 {+6.77/2 0.1} Bxf3 36. Qxd8+ {+7.31/2 0.1} Kxd8 37. Bxf3
+{+7.15/2 0.1} bxc4 38. Rcd1+ {+7.26/2 0.1} Nd7 39. Rxd7+ {+9.21/2 0.1} Ke8
+40. Rc7 {+9.65/2 0.1} Nf5 41. Bc6+ {+13.18/2 0.1} Rd7 42. Bxd7+
+{+13.99/2 0.1} Kd8 43. Rc8# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 Nf6 {+0.09/2 0.1} 2. a5 c5 {+0.14/2 0.1} 3. a6 Nxa6 {+0.60/2 0.1} 4.
+b3 d5 {+0.74/2 0.1} 5. c4 Be6 {+0.83/2 0.1} 6. cxd5 Qxd5 {+0.74/2 0.1} 7.
+d4 Qxd4 {+1.43/2 0.1} 8. Rxa6 Qxd1+ {+3.43/2 0.1} 9. Kxd1 Bxb3+
+{+4.03/2 0.1} 10. Ke1 bxa6 {+3.84/2 0.1} 11. e4 Nxe4 {+4.07/2 0.1} 12. Bxa6
+f5 {+4.03/2 0.1} 13. f4 Bd5 {+4.02/2 0.1} 14. g3 Nd6 {+6.47/2 0.1} 15. Nf3
+Bxf3 {+6.64/2 0.1} 16. Rf1 Bg2 {+6.59/2 0.1} 17. h4 Bxf1 {+7.97/2 0.1} 18.
+Bxf1 O-O-O {+8.25/2 0.1} 19. h5 Ne4 {+8.21/2 0.1} 20. g4 fxg4 {+8.70/2 0.1}
+21. f5 g3 {+9.34/2 0.1} 22. h6 gxh6 {+10.18/2 0.1} 23. f6 exf6
+{+10.87/2 0.1} 24. Na3 f5 {+10.95/2 0.1} 25. Nb5 a6 {+11.02/2 0.1} 26. Na7+
+Kb7 {+11.00/2 0.1} 27. Nb5 axb5 {+12.77/2 0.1} 28. Bb2 Rg8 {+12.81/2 0.1}
+29. Bxb5 g2 {+13.30/2 0.1} 30. Bc1 g1=Q+ {+20.00/2 0.1}
+{xboard exit (Clocks: 196, 357)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 a5 2. b3 b5 3. axb5 a4 4. b6 axb3 5. bxc7 Rxa1 6. cxb8=Q
+{xboard exit (Clocks: 275, 274)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 a5 2. b3 b5 3. axb5 a4 4. b6 axb3 5. bxc7 Rxa1 6. cxb8=Q
+{xboard exit (Clocks: 299, 279)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 a5 2. b3 b5 3. axb5 a4 4. b6 axb3 5. bxc7 Rxa1 6. cxb8=Q
+{xboard exit (Clocks: 303, 299)} *
+
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "-"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. a4 a5 2. b3 b5 3. axb5 a4 4. b4 a3 5. c4 a2 6. c5 axb1=Q 7. b6 Qb3
+{xboard exit} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 a5 2. b3 b5 3. axb5 a4 4. b6 axb3 5. bxc7 Rxa1 6. cxb8=Q Rxb1 7. Qf4
+Rxc1 8. cxb3 Rxd1+ 9. Kxd1
+{xboard exit (Clocks: 300, 3)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 a5 2. b3 b5 3. axb5 a4 4. b6 axb3 5. bxc7 Rxa1 6. cxb8=Q Rxb1 7. Qb6
+Qxb6
+{xboard exit (Clocks: 170, 313)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 a5 2. b3 b5 3. axb5 a4 4. b6 axb3 5. bxc7 Rxa1 6. cxb8=Q Rxb1 7. Qxb3
+Rxb3 8. cxb3 d5
+{xboard exit (Clocks: 290, 315)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. c4 a5 2. c5 a4 3. c6 bxc6 4. d3 a3 5. e3 axb2 6. f3 bxc1=Q 7. e4 Qxd1+
+8. Kf2 Qxf1+ 9. Kg3 Qxg1 10. Kg4 Qxh1 11. Kf4 Qxb1 12. a3 Qxa1 13. a4 Rxa4
+14. d4 Rxd4 15. g3 Rxe4+ 16. Kxe4 c5 17. f4 c4 18. g4 c3 19. h3 c2 20. h4
+c1=Q 21. Kf3 Qxf4+ 22. Kg2 Qxg4+ 23. Kf2 Qxh4+ 24. Ke3 c5 25. Kd3 c4+ 26.
+Ke3 c3 27. Kd3 c2 28. Ke3 c1=Q+ 29. Kd3 d5 30. Ke2 d4 31. Kf3 d3 32. Kg2 d2
+33. Kf3 d1=Q+ 34. Kg2 e5
+{Xboard adjudication: Stalemate} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 f5 {+0.14/2 0.1} 2. a5 Nf6 {+0.11/2 0.1} 3. a6 Nxa6 {+0.68/2 0.1} 4.
+b3 c5 {+0.74/2 0.1} 5. c4 Nb4 {+0.67/2 0.1} 6. d3 d5 {+0.66/2 0.1} 7. cxd5
+Nbxd5 {+0.68/2 0.1} 8. e3 Be6 {+0.74/2 0.1} 9. f4 Ng4 {+0.73/2 0.1} 10. b4
+Ngxe3 {+1.50/2 0.1} 11. Bxe3 Nxe3 {+1.84/2 0.1}
+{xboard exit (Clocks: 298, 320)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 f5 {+0.14/2 0.1} 2. a5 Nc6 {+0.14/2 0.1} 3. a6 bxa6 {+0.42/2 0.1} 4.
+b3 Nf6 {+0.71/2 0.1} 5. c4 e5 {+0.66/2 0.1} 6. d3 Bb4+ {+0.89/2 0.1} 7. Nd2
+O-O {+0.87/2 0.1} 8. e3 Bc3 {+0.77/2 0.1} 9. Rb1 Bb7 {+0.62/2 0.1} 10. b4
+Nxb4 {+1.32/2 0.1} 11. c5 Bd5 {+1.49/2 0.1} 12. d4 Ba2 {+2.39/2 0.1} 13.
+dxe5 Bxb1 {+3.36/2 0.1} 14. exf6 Qxf6 {+3.20/2 0.1} 15. c6 Qxc6
+{+3.94/2 0.1} 16. e4 Bc2 {+5.01/2 0.1} 17. Qe2 Nd3+ {+7.74/2 0.1} 18. Qxd3
+Bxd3 {+7.75/2 0.1} 19. Bxd3 fxe4 {+7.77/2 0.1} 20. Bxe4 Qxe4+
+{+10.19/2 0.1} 21. Ne2 Rae8 {+12.31/2 0.1} 22. f4 Qxe2# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.13/2} a5 2. g4 {+0.06/2 0.1} a4 3. d3 {+0.08/2 0.1} a3 4. bxa3
+{+0.47/2 0.1} b6 5. Nf3 {+0.72/2 0.1} c5 6. h4 {+0.66/2 0.1} d5 7. Ne5
+{+0.63/2 0.1} d4 8. Bg2 {+0.77/2 0.1} Ra5 9. Ne4 {+0.66/2 0.1} b5 10. Nxc5
+{+1.31/2 0.1} b4 11. axb4 {+2.23/2 0.1} Ra7 12. O-O {+2.35/2 0.1} e6 13.
+Bg5 {+2.21/2 0.1} Qc7 14. Bf4 {+2.15/2 0.1} f5 15. Ng6 {+3.63/2 0.1} Qd8
+16. Nxh8 {+6.41/2 0.1} e5 17. Bxe5 {+7.27/2 0.1} fxg4 18. Bxb8
+{+9.04/2 0.1} Ra3 19. Bc6+ {+9.63/2 0.1} Ke7 20. Be5 {+9.31/2 0.1} g6 21.
+e3 {+9.32/2 0.1} dxe3 22. fxe3 {+9.09/2 0.1} Nf6 23. Bxf6+ {+20.38/2 0.1}
+Kd6 24. Bxd8 {+19.91/2 0.1} Bg7 25. Bb7 {+18.84/2 0.1} Bxb7 26. Nxb7+
+{+19.81/2 0.1} Ke6 27. Qxg4+ {+21.40/2 0.1} Kd5 28. Qe4# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 Nc6 {+0.10/2 0.1} 2. a5 d5 {+0.12/2 0.1} 3. a6 bxa6 {+0.60/2 0.1} 4.
+b3 Nf6 {+0.71/2 0.1} 5. c3 e5 {+0.67/2 0.1} 6. b4 Bf5 {+0.75/2 0.1} 7. d3
+Qc8 {+0.60/2 0.1} 8. e3 Bd6 {+0.70/2 0.1} 9. f3 O-O {+0.86/2 0.1} 10. g4
+Be6 {+0.59/2 0.1} 11. g5 Nd7 {+0.56/2 0.1} 12. h4 f5 {+0.67/2 0.1} 13. h5
+d4 {+0.64/2 0.1} 14. cxd4 Bxb4+ {+1.11/2 0.1} 15. Nd2 Bc3 {+1.41/2 0.1} 16.
+Ra3 Bxd2+ {+0.92/2 0.1} 17. Bxd2 exd4 {+0.48/2 0.1} 18. exd4 Nxd4
+{+0.61/2 0.1} 19. f4 Bd5 {+1.12/2 0.1} 20. Rh2 Re8+ {+1.09/2 0.1} 21. Kf2
+Nb5 {+1.03/2 0.1} 22. Ra1 c5 {+0.64/2 0.1} 23. Nh3 Qc6 {+1.04/2 0.1} 24.
+Ng1 Re6 {+0.98/2 0.1} 25. Nh3 Nd4 {+1.14/2 0.1} 26. Ng1 Nb3 {+1.41/2 0.1}
+27. Rxa6 Qxa6 {+4.76/2 0.1} 28. d4 Qc6 {+5.18/2 0.1} 29. Bc3 cxd4
+{+5.19/2 0.1} 30. Bb4 Qb6 {+5.57/2 0.1} 31. Ba3 d3+ {+8.88/2 0.1} 32. Kg3
+Qxg1+ {+9.56/2 0.1} 33. Kh3 Re3+ {+13.39/2 0.1} 34. Kh4 Qg3#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.17"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. f4 {+0.13/2} a5 2. c3 {+0.13/2 0.1} a4 3. b4 {+0.03/2 0.1} a3 4. Nh3
+{+0.66/2 0.1} b5 5. Nxa3 {+0.73/2 0.1} d5 6. Nxb5 {+1.42/2 0.1} c5 7. bxc5
+{+2.04/2 0.1} d4 8. Nxd4 {+2.90/2 0.1} f6 9. c6 {+3.38/2 0.1} g6 10. Nf2
+{+3.59/2 0.1} e5 11. fxe5 {+3.58/2 0.1} fxe5 12. c7 {+2.10/2 0.1} Qxc7 13.
+Nb5 {+2.14/2 0.1} Qd7 14. Qb3 {+2.07/2 0.1} g5 15. Ne4 {+2.22/2 0.1} g4 16.
+g3 {+2.12/2 0.1} h5 17. Bg2 {+2.10/2 0.1} Na6 18. Ned6+ {+3.75/2 0.1} Bxd6
+19. Nxd6+ {+4.31/2 0.1} Qxd6 20. Bxa8 {+4.11/2 0.1} Nb8 21. Bd5
+{+4.58/2 0.1} h4 22. Bxg8 {+5.84/2 0.1} hxg3 23. Bf7+ {+5.86/2 0.1} Kf8 24.
+Ba3 {+8.35/2 0.1} Qxa3 25. Qxa3+ {+8.64/2 0.1} Kxf7 26. O-O+ {+10.09/2 0.1}
+Kg7 27. Qe7+ {+9.84/2 0.1} Kg8 28. Rf8# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 f5 {+0.14/2 0.1} 2. a5 Nc6 {+0.12/2 0.1} 3. a6 bxa6 {+0.41/2 0.1} 4.
+b3 Nf6 {+0.71/2 0.1} 5. c4 e5 {+0.66/2 0.1} 6. d3 Bb4+ {+0.89/2 0.1} 7. Nd2
+O-O {+0.87/2 0.1} 8. e3 Bc3 {+0.77/2 0.1} 9. Rb1 Bb7 {+0.62/2 0.1} 10. b4
+Nxb4 {+1.32/2 0.1} 11. c5 Bd5 {+1.49/2 0.1} 12. d4 Ba2 {+2.39/2 0.1} 13.
+dxe5 Bxb1 {+3.36/2 0.1} 14. exf6 Qxf6 {+3.20/2 0.1} 15. c6 Qxc6
+{+3.94/2 0.1} 16. e4 Bc2 {+5.01/2 0.1} 17. Qe2 Nd3+ {+7.74/2 0.1} 18. Qxd3
+Bxd3 {+7.75/2 0.1} 19. Bxd3 fxe4 {+7.77/2 0.1} 20. Bxe4 Qxe4+
+{+10.19/2 0.1} 21. Ne2 Rae8 {+12.31/2 0.1} 22. f4 Qxe2# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. f4 {+0.13/2} a5 2. c3 {+0.13/2 0.1} a4 3. b3 {+0.08/2 0.1} axb3 4. Qxb3
+{-0.16/2 0.1} b6 5. Nf3 {-0.03/2 0.1} c5 6. g4 {-0.08/2 0.1} d5 7. Ne5
+{-0.11/2 0.1} c4 8. Qb5+ {+0.59/2 0.1} Nd7 9. Qxd5 {+1.47/2 0.1} Nxe5 10.
+Qxa8 {+1.83/2 0.1} Nxg4 11. Qa4+ {+2.49/2 0.1} b5 12. Qxb5+ {+3.23/2 0.1}
+Bd7 13. Qxc4 {+3.20/2 0.1} Be6 14. Qa4+ {+3.37/2 0.1} Bd7 15. Qb4
+{+3.20/2 0.1} e5 16. Qc4 {+3.20/2 0.1} exf4 17. Qe4+ {+3.22/2 0.1} Ne7 18.
+Qxf4 {+3.25/2 0.1} Bc8 19. Bh3 {+3.27/2 0.1} f6 20. Bxg4 {+5.81/2 0.1} f5
+21. Bh5+ {+5.94/2 0.1} g6 22. Qe5 {+5.92/2 0.1} gxh5 23. Qxh8 {+7.39/2 0.1}
+h6 24. O-O {+7.52/2 0.1} h4 25. d4 {+7.42/2 0.1} h3 26. Bxh6 {+7.55/2 0.1}
+f4 27. Qxf8+ {+11.70/2 0.1} Kd7 28. Qxd8+ {+11.70/2 0.1} Kxd8 29. Bxf4
+{+11.15/2 0.1} Nf5 30. e4 {+11.30/2 0.1} Ng7 31. Nd2 {+11.20/2 0.1} Nh5 32.
+Bg5+ {+11.11/2 0.1} Ke8 33. Kf2 {+11.15/2 0.1} Ng7 34. Bf6 {+11.13/2 0.1}
+Nh5 35. Be5 {+11.09/2 0.1} Bd7 36. a4 {+11.20/2 0.1} Be6 37. d5
+{+11.21/2 0.1} Bf7 38. d6 {+11.77/2 0.1} Bg8 39. Ke3 {+11.75/2 0.1} Bh7 40.
+Rf3 {+13.12/2 0.1} Bg8 41. Rxh3 {+13.13/2 0.1} Ng7 42. Rg3 {+15.61/2 0.1}
+Bh7 43. Rxg7 {+17.94/2 0.1} Bxe4 44. d7+ {+18.71/2 0.1} Kf8 45. d8=Q#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d5 {+0.11/2 0.1} 2. a5 Bf5 {+0.13/2 0.1} 3. a6 Nxa6 {+0.46/2 0.1} 4.
+b3 Nb4 {+0.76/2 0.1} 5. c3 Nc2+ {+6.55/2 0.1} 6. Qxc2 Bxc2 {+6.62/2 0.1} 7.
+b4 c6 {+6.64/2 0.1} 8. d4 Nf6 {+6.64/2 0.1} 9. e3 Be4 {+6.62/2 0.1} 10. f4
+h5 {+6.61/2 0.1} 11. h4 g6 {+6.59/2 0.1} 12. Nd2 Bf5 {+6.52/2 0.1} 13. g3
+Ng4 {+6.61/2 0.1} 14. Ndf3 Bg7 {+6.59/2 0.1} 15. Ng5 O-O {+6.79/2 0.1} 16.
+N5h3 Be4 {+9.09/2 0.1} 17. Nf3 Bxf3 {+9.22/2 0.1} 18. Rg1 Bf6 {+9.22/2 0.1}
+19. Ng5 Nh2 {+8.88/2 0.1} 20. Nxf3 Nxf3+ {+11.15/2 0.1} 21. Kd1 Nxg1
+{+13.09/2 0.1} 22. Rb1 Nf3 {+13.35/2 0.1} 23. b5 e6 {+13.26/2 0.1} 24. b6
+axb6 {+14.04/2 0.1} 25. Bg2 Nh2 {+13.76/2 0.1} 26. Rb2 Ng4 {+13.99/2 0.1}
+27. Rb1 Nf2+ {+14.22/2 0.1} 28. Ke1 Nd3+ {+14.47/2 0.1} 29. Kf1 Nxc1
+{+14.55/2 0.1} 30. Rxc1 c5 {+14.46/2 0.1} 31. dxc5 bxc5 {+14.30/2 0.1} 32.
+Rb1 Ra3 {+14.43/2 0.1} 33. Rxb7 Rxc3 {+14.55/2 0.1} 34. e4 Rxg3
+{+15.17/2 0.1} 35. exd5 exd5 {+15.26/2 0.1} 36. f5 gxf5 {+15.95/2 0.1} 37.
+Rb1 Bxh4 {+16.53/2 0.1} 38. Rb2 f4 {+16.76/2 0.1} 39. Rb1 f3 {+17.36/2 0.1}
+40. Bh1 Rh3 {+17.31/2 0.1} 41. Bg2 fxg2+ {+18.66/2 0.1} 42. Kg1 Rh1+
+{+23.24/2 0.1} 43. Kxg2 Rxb1 {+23.24/2 0.1}
+{Error: first chess program (make run) exited unexpectedly} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c5 {+0.06/2 0.1} 2. a5 Nc6 {+0.58/2 0.1} 3. a6 bxa6 {+0.61/2 0.1} 4.
+b3 f5 {+0.74/2 0.1} 5. c4 Nf6 {+0.71/2 0.1} 6. d3 Ne5 {+0.65/2 0.1} 7. e3
+g5 {+0.66/2 0.1} 8. f3 Bg7 {+0.62/2 0.1} 9. g3 O-O {+0.85/2 0.1} 10. h3 Nh5
+{+0.65/2 0.1} 11. b4 Nxd3+ {+3.01/2 0.1} 12. Bxd3 Bxa1 {+3.12/2 0.1} 13.
+bxc5 Nxg3 {+3.36/2 0.1} 14. Rh2 Qa5+ {+3.75/2 0.1} 15. Nd2 Be5
+{+4.24/2 0.1} 16. c6 dxc6 {+3.91/2 0.1} 17. Rf2 Qc3 {+4.13/2 0.1} 18. Bc2
+Qxe3+ {+4.84/2 0.1} 19. Ne2 Be6 {+4.88/2 0.1} 20. Ne4 Rad8 {+2.74/2 0.1}
+21. Bxe3 Rxd1+ {+2.74/2 0.1} 22. Bxd1 fxe4 {+2.74/2 0.1} 23. fxe4 Rxf2
+{+3.07/2 0.1} 24. Nxg3 Rg2 {+4.05/2 0.1} 25. Nh5 Bxc4 {+4.28/2 0.1} 26.
+Bxa7 Bc3# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c6 {+0.11/2 0.1} 2. a5 b6 {+0.12/2 0.1} 3. axb6 a6 {-0.11/2 0.1} 4.
+b7 Bxb7 {-0.15/2 0.1} 5. b4 f5 {+0.00/2 0.1} 6. c4 a5 {+0.03/2 0.1} 7. bxa5
+Rxa5 {-0.03/2 0.1} 8. Na3 Nf6 {-0.03/2 0.1} 9. d4 g6 {-0.10/2 0.1} 10. c5
+Nd5 {-0.11/2 0.1} 11. e3 Nc3 {-0.05/2 0.1} 12. Qd2 Ne4 {+0.06/2 0.1} 13.
+Qe2 Ba6 {+0.22/2 0.1} 14. Qf3 Bxf1 {+0.26/2 0.1} 15. Kxf1 Bg7 {+0.03/2 0.1}
+16. g4 O-O {+0.26/2 0.1} 17. gxf5 gxf5 {-0.02/2 0.1} 18. h4 Nxc5
+{+0.60/2 0.1} 19. e4 Bxd4 {+1.57/2 0.1} 20. Ra2 fxe4 {+2.16/2 0.1} 21. Qg3+
+Bg7 {+2.01/2 0.1} 22. f4 Nba6 {+2.11/2 0.1} 23. f5 Rxf5+ {+2.90/2 0.1} 24.
+Nf3 Rxf3+ {+9.61/2 0.1} 25. Qxf3 exf3 {+10.02/2 0.1} 26. h5 Nb4
+{+10.35/2 0.1} 27. Rb2 Bxb2 {+11.77/2 0.1} 28. Bxb2 Nbd3 {+11.80/2 0.1} 29.
+Bc3 Rxa3 {+14.28/2 0.1} 30. Bd4 e5 {+14.38/2 0.1} 31. Be3 Ra1+
+{+17.42/2 0.1} 32. Bc1 Rxc1# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. d4 {+0.13/2} a5 2. Bg5 {+0.08/2 0.1} a4 3. c3 {+0.12/2 0.1} a3 4. Nxa3
+{+0.62/2 0.1} b6 5. Nc4 {+0.72/2 0.1} b5 6. Ne5 {+0.62/2 0.1} c6 7. Ngf3
+{+0.71/2 0.1} d5 8. g4 {+0.67/2 0.1} f6 9. Bf4 {-1.00/2 0.1} fxe5 10. Nxe5
+{-1.22/2 0.1} e6 11. h4 {-1.17/2 0.1} g6 12. Bg2 {-1.21/2 0.1} h6 13. Nxg6
+{+0.07/2 0.1} Rh7 14. Nxf8 {+0.09/2 0.1} Kxf8 15. Bf3 {-0.07/2 0.1} Nd7 16.
+Bd6+ {+0.13/2 0.1} Ne7 17. O-O {+0.22/2 0.1} Nb8 18. Qb1 {+0.00/2 0.1} Rxa2
+19. Rxa2 {+5.17/2 0.1} Na6 20. Qxh7 {+5.89/2 0.1} Qxd6 21. Qxh6+
+{+6.07/2 0.1} Kg8 22. Qg5+ {+6.04/2 0.1} Kh8 23. Qf6+ {+6.07/2 0.1} Kg8 24.
+Qe5 {+5.89/2 0.1} Qd7 25. Qg5+ {+6.04/2 0.1} Kh8 26. Qh6+ {+6.08/2 0.1} Kg8
+27. b4 {+5.86/2 0.1} Nb8 28. Qg5+ {+6.02/2 0.1} Kh8 29. Qe5+ {+8.64/2 0.1}
+Kg8 30. Qxb8 {+8.51/2 0.1} e5 31. Ra7 {+9.61/2 0.1} Qd8 32. Rxe7
+{+9.62/2 0.1} Qxe7 33. Qxc8+ {+10.54/2 0.1} Qf8 34. Qxf8+ {+10.62/2 0.1}
+Kxf8 35. dxe5 {+10.40/2 0.1} Kg8 36. e6 {+10.93/2 0.1} Kh8 37. e7
+{+11.50/2 0.1} Kg8 38. e8=Q+ {+18.81/2 0.1} Kg7 39. Qxc6 {+19.62/2 0.1} d4
+40. cxd4 {+20.43/2 0.1}
+{Error: first chess program (make run) exited unexpectedly} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 Nc6 {+0.14/2 0.1} 2. a5 f5 {+0.12/2 0.1} 3. a6 bxa6 {+0.50/2 0.1} 4.
+b3 Nf6 {+0.71/2 0.1} 5. c4 e5 {+0.66/2 0.1} 6. d3 Bb4+ {+0.89/2 0.1} 7. Nd2
+O-O {+0.87/2 0.1} 8. e3 Bc3 {+0.77/2 0.1} 9. Rb1 Bb7 {+0.62/2 0.1} 10. b4
+Nxb4 {+1.32/2 0.1} 11. c5 Bd5 {+1.49/2 0.1} 12. d4 Ba2 {+2.39/2 0.1} 13.
+dxe5 Bxb1 {+3.36/2 0.1} 14. exf6 Qxf6 {+3.20/2 0.1} 15. c6 Qxc6
+{+3.94/2 0.1} 16. e4 Bc2 {+5.01/2 0.1} 17. Qe2 Nd3+ {+7.74/2 0.1} 18. Qxd3
+Bxd3 {+7.75/2 0.1} 19. Bxd3 fxe4 {+7.77/2 0.1} 20. Bxe4 Qxe4+
+{+10.19/2 0.1} 21. Ne2 Rae8 {+12.31/2 0.1} 22. f4 Qxe2# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. f4 {+0.13/2} a5 2. c4 {+0.11/2 0.1} a4 3. Nc3 {+0.54/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. Nf3 {+0.71/2 0.1} c5 6. g4 {+0.66/2 0.1} d6 7. Bh3
+{+0.61/2 0.1} e6 8. O-O {+0.85/2 0.1} f6 9. Ne4 {+0.65/2 0.1} g6 10. Bg2
+{+0.60/2 0.1} h6 11. Nh4 {+0.65/2 0.1} b5 12. Nxd6+ {+3.01/2 0.1} Bxd6 13.
+Bxa8 {+3.12/2 0.1} bxc4 14. Nxg6 {+3.36/2 0.1} Rh7 15. Qa4+ {+3.75/2 0.1}
+Nd7 16. Be4 {+4.24/2 0.1} c3 17. dxc3 {+3.91/2 0.1} Rf7 18. Qc6
+{+4.13/2 0.1} Bc7 19. Qxe6+ {+4.84/2 0.1} Ne7 20. Be3 {+4.88/2 0.1} Ne5 21.
+Rad1 {+2.74/2 0.1} Bxe6 22. Rxd8+ {+2.74/2 0.1} Bxd8 23. fxe5 {+2.74/2 0.1}
+fxe5 24. Rxf7 {+3.07/2 0.1} Nxg6 25. Rg7 {+4.05/2 0.1} Nh8 26. Bxc5
+{+4.40/2 0.1} Bxa2 27. Bc6# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 Nf6 {+0.11/2 0.1} 2. a5 c5 {+0.10/2 0.1} 3. a6 Nxa6 {+0.62/2 0.1} 4.
+b3 d5 {+0.74/2 0.1} 5. c4 Be6 {+0.83/2 0.1} 6. cxd5 Qxd5 {+0.74/2 0.1} 7.
+d4 Qxd4 {+1.43/2 0.1} 8. Rxa6 Qxd1+ {+3.43/2 0.1} 9. Kxd1 Bxb3+
+{+4.03/2 0.1} 10. Ke1 bxa6 {+3.84/2 0.1} 11. e4 Nxe4 {+4.07/2 0.1} 12. Bxa6
+f5 {+4.03/2 0.1} 13. f4 Bd5 {+4.02/2 0.1} 14. g3 Nd6 {+6.47/2 0.1} 15. Nf3
+Bxf3 {+6.64/2 0.1} 16. Rf1 Bg2 {+6.59/2 0.1} 17. h4 Bxf1 {+7.97/2 0.1} 18.
+Bxf1 O-O-O {+8.25/2 0.1} 19. h5 Ne4 {+8.21/2 0.1} 20. g4 fxg4 {+8.70/2 0.1}
+21. f5 g3 {+9.34/2 0.1} 22. h6 gxh6 {+10.18/2 0.1} 23. f6 exf6
+{+10.87/2 0.1} 24. Na3 f5 {+10.95/2 0.1} 25. Nb5 a6 {+11.02/2 0.1} 26. Na7+
+Kb7 {+11.00/2 0.1} 27. Nb5 axb5 {+12.77/2 0.1} 28. Bb2 Rg8 {+12.81/2 0.1}
+29. Bxb5 g2 {+13.30/2 0.1} 30. Bc1 g1=Q+ {+20.00/2 0.1} 31. Bf1 Qf2#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c3 {+0.01/2} a5 2. f3 {+0.12/2 0.1} a4 3. Nh3 {+0.03/2 0.1} a3 4. b4
+{+0.67/2 0.1} b5 5. Nxa3 {+0.73/2 0.1} d5 6. Nxb5 {+1.42/2 0.1} c5 7. bxc5
+{+2.04/2 0.1} d4 8. Nxd4 {+2.90/2 0.1} e5 9. Nb3 {+2.71/2 0.1} e4 10. fxe4
+{+3.50/2 0.1} f6 11. Nf4 {+3.65/2 0.1} g5 12. Nd5 {+3.55/2 0.1} f5 13. Nb6
+{+3.91/2 0.1} Rxa2 14. Rxa2 {+7.05/2 0.1} Bb7 15. exf5 {+7.91/2 0.1} g4 16.
+Nc4 {+8.06/2 0.1} h5 17. Ne5 {+8.03/2 0.1} h4 18. Ng6 {+8.58/2 0.1} Rh5 19.
+Nxf8 {+8.65/2 0.1} Kxf8 20. Ra7 {+8.36/2 0.1} Bc8 21. e4 {+8.38/2 0.1} h3
+22. gxh3 {+9.18/2 0.1} Rxh3 23. Bxh3 {+9.49/2 0.1} gxh3 24. O-O
+{+9.46/2 0.1} Nc6 25. Rh7 {+9.35/2 0.1} Nb8 26. Rxh3 {+10.58/2 0.1} Nc6 27.
+Rh8 {+10.64/2 0.1} Nb8 28. f6 {+11.16/2 0.1} Nc6 29. f7 {+11.93/2 0.1} Nb8
+30. fxg8=Q+ {+29.57/2 0.1} Ke7 31. Qf7# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "5"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c5 {+0.12/2 0.1} 2. a5 Nc6 {+0.66/2 0.1} 3. a6 bxa6 {+0.60/2 0.1} 4.
+b3 f5 {+0.74/2 0.1} 5. c4 Nf6 {+0.71/2 0.1} 6. d3 Ne5 {+0.65/2 0.1} 7. e3
+g5 {+0.66/2 0.1} 8. f3 Bg7 {+0.62/2 0.1} 9. g3 O-O {+0.85/2 0.1} 10. h3 Nh5
+{+0.65/2 0.1} 11. b4 Nxd3+ {+3.01/2 0.1} 12. Bxd3 Bxa1 {+3.12/2 0.1} 13.
+bxc5 Nxg3 {+3.36/2 0.1} 14. Rh2 Qa5+ {+3.75/2 0.1} 15. Nd2 Be5
+{+4.24/2 0.1} 16. c6 dxc6 {+3.91/2 0.1} 17. Rf2 Qc3 {+4.13/2 0.1} 18. Bc2
+Qxe3+ {+4.84/2 0.1} 19. Ne2 Be6 {+4.88/2 0.1} 20. Ne4 Rad8 {+2.74/2 0.1}
+21. Bxe3 Rxd1+ {+2.74/2 0.1} 22. Bxd1 fxe4 {+2.74/2 0.1} 23. fxe4 Rxf2
+{+3.07/2 0.1} 24. Nxg3 Rg2 {+4.05/2 0.1} 25. Nh5 Bxc4 {+4.28/2 0.1} 26.
+Bxa7 Bc3# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "6"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. f4 {+0.08/2} a5 2. Nf3 {+0.11/2 0.1} a4 3. Nc3 {+0.14/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. e4 {+0.66/2 0.1} c5 6. Bd3 {+0.69/2 0.1} d6 7. O-O
+{+0.85/2 0.1} e6 8. Bb2 {+0.60/2 0.1} f6 9. Bb5+ {+0.60/2 0.1} Nd7 10. Bc4
+{+0.79/2 0.1} Nb8 11. Bd3 {+0.60/2 0.1} g6 12. Bb5+ {+0.60/2 0.1} Nd7 13.
+Bc6 {+0.77/2 0.1} Rb8 14. Ne2 {+0.67/2 0.1} b5 15. Bc3 {+0.76/2 0.1} b4 16.
+axb4 {+0.96/2 0.1} c4 17. Ned4 {+1.50/2 0.1} d5 18. Nxe6 {+2.21/2 0.1} Qe7
+19. Nxf8 {+3.27/2 0.1} Qxf8 20. Bxd5 {+3.37/2 0.1} g5 21. Nxg5
+{+3.96/2 0.1} h5 22. Bf7+ {+4.91/2 0.1} Kd8 23. Ne6+ {+9.86/2 0.1} Ke7 24.
+Nxf8 {+9.87/2 0.1} Kxf7 25. Nxd7 {+9.59/2 0.1} Bxd7 26. a4 {+9.64/2 0.1} h4
+27. d3 {+9.58/2 0.1} cxd3 28. Qxd3 {+9.57/2 0.1} Be8 29. Qc4+ {+9.85/2 0.1}
+Kg7 30. Qc7+ {+13.95/2 0.1} Ne7 31. Qxb8 {+14.06/2 0.1} Bf7 32. Bxf6+
+{+16.43/2 0.1} Kxf6 33. Qxh8+ {+17.20/2 0.1} Kg6 34. Qxh4 {+17.02/2 0.1}
+Ng8 35. Qg5+ {+17.10/2 0.1} Kh7 36. Kf2 {+17.06/2 0.1} Nh6 37. g4
+{+17.03/2 0.1} Ng8 38. e5 {+17.05/2 0.1} Nh6 39. h4 {+17.02/2 0.1} Ng8 40.
+f5 {+17.05/2 0.1} Nh6 41. e6 {+17.68/2 0.1} Bg8 42. Qg6+ {+20.30/2 0.1} Kh8
+43. Qxh6+ {+20.24/2 0.1} Bh7 44. f6 {+20.83/2 0.1} Kg8 45. Qg7#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "7"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 Nc6 {+0.14/2 0.1} 2. a5 Nf6 {+0.05/2 0.1} 3. a6 bxa6 {+0.47/2 0.1} 4.
+b3 e5 {+0.66/2 0.1} 5. c4 Bd6 {+0.69/2 0.1} 6. d3 O-O {+0.85/2 0.1} 7. e4
+h5 {+0.66/2 0.1} 8. f3 Nd4 {+0.64/2 0.1} 9. g3 c5 {+0.66/2 0.1} 10. h4 Bb7
+{+0.60/2 0.1} 11. Nc3 Qb6 {+0.74/2 0.1} 12. Nb1 Nxb3 {+1.69/2 0.1} 13. Rxa6
+Bxa6 {+5.01/2 0.1} 14. Bb2 Nd4 {+5.19/2 0.1} 15. Ba3 Qa5+ {+5.18/2 0.1} 16.
+Nd2 Qxa3 {+8.09/2 0.1} 17. f4 exf4 {+8.92/2 0.1} 18. gxf4 Bxf4
+{+8.77/2 0.1} 19. Nb1 Bg3+ {+9.02/2 0.1} 20. Kd2 Qa2+ {+9.09/2 0.1} 21. Ke3
+Qf2# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "8"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.13/2} a5 2. g4 {+0.05/2 0.1} a4 3. Nf3 {+0.09/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. d4 {+0.66/2 0.1} c6 6. h4 {+0.67/2 0.1} b5 7. Bf4
+{+0.75/2 0.1} d5 8. g5 {+0.51/2 0.1} e6 9. Qd3 {+0.58/2 0.1} Rxa3 10. Bxb8
+{+2.29/2 0.1} b4 11. g6 {+0.54/2 0.1} fxg6 12. Ne5 {-0.71/2 0.1} bxc3 13.
+Nxc6 {-0.70/2 0.1} Qd7 14. Ne5 {-0.58/2 0.1} Qe7 15. Qb5+ {-0.41/2 0.1} Kd8
+16. Nc6+ {+5.54/2 0.1} Ke8 17. Nxe7+ {+5.63/2 0.1} Kxe7 18. Qc5+
+{+8.40/2 0.1} Kf7 19. Qxc8 {+8.11/2 0.1} h5 20. Bh3 {+8.95/2 0.1} Nh6 21.
+Qxe6# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "9"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d6 {+0.09/2 0.1} 2. a5 Nf6 {+0.11/2 0.1} 3. a6 b5 {+0.65/2 0.1} 4. b4
+c6 {+0.74/2 0.1} 5. e3 Nxa6 {+0.78/2 0.1} 6. c4 bxc4 {+1.29/2 0.1} 7. b5
+cxb5 {+1.95/2 0.1} 8. d4 Bg4 {+2.21/2 0.1} 9. Qd2 Ne4 {+2.25/2 0.1} 10. Qc2
+Nec5 {+0.58/2 0.1} 11. d5 Nb4 {+2.31/2 0.1} 12. Qd2 Nbd3+ {+3.11/2 0.1} 13.
+Bxd3 Nb3 {+3.08/2 0.1} 14. Qc2 Nxa1 {+4.83/2 0.1} 15. Qd2 Nb3 {+6.40/2 0.1}
+16. Qc2 Nxc1 {+6.53/2 0.1} 17. Be4 Qa5+ {+6.93/2 0.1} 18. Nc3 Na2
+{+6.97/2 0.1} 19. Qxa2 Qxc3+ {+7.17/2 0.1} 20. Kf1 Qc1# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "10"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. f4 {+0.11/2} a5 2. c4 {+0.14/2 0.1} a4 3. Nc3 {+0.67/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. Nf3 {+0.71/2 0.1} c5 6. g4 {+0.66/2 0.1} d6 7. Bh3
+{+0.61/2 0.1} e6 8. O-O {+0.85/2 0.1} f6 9. Ne4 {+0.65/2 0.1} g6 10. Bg2
+{+0.60/2 0.1} h6 11. Nh4 {+0.65/2 0.1} b5 12. Nxd6+ {+3.01/2 0.1} Bxd6 13.
+Bxa8 {+3.12/2 0.1} bxc4 14. Nxg6 {+3.36/2 0.1} Rh7 15. Qa4+ {+3.75/2 0.1}
+Nd7 16. Be4 {+4.24/2 0.1} c3 17. dxc3 {+3.91/2 0.1} Rf7 18. Qc6
+{+4.13/2 0.1} Bc7 19. Qxe6+ {+4.84/2 0.1} Ne7 20. Be3 {+4.88/2 0.1} Ne5 21.
+Rad1 {+2.74/2 0.1} Bxe6 22. Rxd8+ {+2.74/2 0.1} Bxd8 23. fxe5 {+2.74/2 0.1}
+fxe5 24. Rxf7 {+3.07/2 0.1} Nxg6 25. Rg7 {+4.05/2 0.1} Nh8 26. Bxc5
+{+4.40/2 0.1} Bxa2 27. Bc6# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 f6 {+0.12/2 0.1} 2. a5 c5 {+0.14/2 0.1} 3. a6 b5 {+0.70/2 0.1} 4. b3
+Nxa6 {+0.62/2 0.1} 5. c4 bxc4 {+0.72/2 0.1} 6. bxc4 d5 {+0.72/2 0.1} 7.
+cxd5 Qxd5 {+0.58/2 0.1} 8. d4 Qxd4 {+1.43/2 0.1} 9. Rxa6 Qxd1+
+{+3.52/2 0.1} 10. Kxd1 Bxa6 {+3.16/2 0.1} 11. f4 O-O-O+ {+3.59/2 0.1} 12.
+Nd2 e5 {+3.38/2 0.1} 13. f5 Nh6 {+4.07/2 0.1} 14. e4 Bxf1 {+6.34/2 0.1} 15.
+g4 Bg2 {+8.79/2 0.1} 16. g5 fxg5 {+10.45/2 0.1} 17. f6 gxf6 {+12.00/2 0.1}
+18. h4 Bxh1 {+12.05/2 0.1} 19. h5 Bxe4 {+13.06/2 0.1} 20. Nh3 Bf3+
+{+13.76/2 0.1} 21. Ke1 Bg4 {+13.58/2 0.1} 22. Ng1 Be7 {+13.57/2 0.1} 23.
+Ne4 Rd1+ {+16.05/2 0.1} 24. Kf2 Rxc1 {+15.81/2 0.1} 25. Nd2 Rc2
+{+16.54/2 0.1} 26. Nh3 Rxd2+ {+18.45/2 0.1} 27. Kf1 Bxh3+ {+21.01/2 0.1}
+28. Kg1 Bg4 {+21.81/2 0.1} 29. Kh1 e4 {+21.91/2 0.1} 30. Kg1 e3
+{+22.37/2 0.1} 31. Kh1 e2 {+22.91/2 0.1} 32. Kg1 e1=Q# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.13/2} a5 2. d3 {+0.10/2 0.1} a4 3. Bg5 {+0.09/2 0.1} a3 4. bxa3
+{+0.04/2 0.1} b6 5. Qc1 {+0.58/2 0.1} c5 6. Nf3 {+0.71/2 0.1} d5 7. e4
+{+0.76/2 0.1} d4 8. Nd5 {+0.64/2 0.1} b5 9. c4 {+0.76/2 0.1} bxc4 10. Qxc4
+{+0.60/2 0.1} f5 11. Qxc5 {+1.41/2 0.1} fxe4 12. Nc7+ {+3.30/2 0.1} Kf7 13.
+Ne5# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c5 {+0.13/2 0.1} 2. a5 Nc6 {+0.74/2 0.1} 3. a6 bxa6 {+0.52/2 0.1} 4.
+b3 f5 {+0.74/2 0.1} 5. c4 Nf6 {+0.71/2 0.1} 6. d3 Ne5 {+0.65/2 0.1} 7. e3
+g5 {+0.66/2 0.1} 8. f3 Bg7 {+0.62/2 0.1} 9. g3 O-O {+0.85/2 0.1} 10. h3 Nh5
+{+0.65/2 0.1} 11. b4 Nxd3+ {+3.01/2 0.1} 12. Bxd3 Bxa1 {+3.12/2 0.1} 13.
+bxc5 Nxg3 {+3.36/2 0.1} 14. Rh2 Qa5+ {+3.75/2 0.1} 15. Nd2 Be5
+{+4.24/2 0.1} 16. c6 dxc6 {+3.91/2 0.1} 17. Rf2 Qc3 {+4.13/2 0.1} 18. Bc2
+Qxe3+ {+4.84/2 0.1} 19. Ne2 Be6 {+4.88/2 0.1} 20. Ne4 Rad8 {+2.74/2 0.1}
+21. Bxe3 Rxd1+ {+2.74/2 0.1} 22. Bxd1 fxe4 {+2.74/2 0.1} 23. fxe4 Rxf2
+{+3.07/2 0.1} 24. Nxg3 Rg2 {+4.05/2 0.1} 25. Nh5 Bxc4 {+4.28/2 0.1} 26.
+Bxa7 Bc3# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. f3 {+0.11/2} a5 2. Nc3 {+0.06/2 0.1} a4 3. Nd5 {+0.05/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b5 5. e4 {+0.76/2 0.1} b4 6. axb4 {+1.34/2 0.1} c6 7. Nf4
+{+1.34/2 0.1} d6 8. Bd3 {+1.44/2 0.1} e5 9. Nfe2 {+1.29/2 0.1} f6 10. a4
+{+1.41/2 0.1} g5 11. Nh3 {+1.39/2 0.1} c5 12. bxc5 {+1.45/2 0.1} dxc5 13.
+O-O {+1.59/2 0.1} h5 14. Nf2 {+1.37/2 0.1} f5 15. exf5 {+1.98/2 0.1} g4 16.
+Be4 {+2.89/2 0.1} Ra5 17. fxg4 {+2.73/2 0.1} h4 18. Nd3 {+2.86/2 0.1} c4
+19. Nf2 {+2.78/2 0.1} Na6 20. Bb2 {+2.84/2 0.1} Nb8 21. Bc3 {+3.05/2 0.1}
+Ra6 22. Bxe5 {+4.78/2 0.1} Nf6 23. Bxb8 {+4.79/2 0.1} Bd7 24. Be5
+{+5.85/2 0.1} c3 25. Nxc3 {+6.93/2 0.1} h3 26. Nxh3 {+7.63/2 0.1} Rxh3 27.
+gxh3 {+8.47/2 0.1} Nxe4 28. Nxe4 {+8.48/2 0.1} Rxa4 29. Nf6+ {+8.94/2 0.1}
+Ke7 30. Nd5+ {+8.94/2 0.1} Kf7 31. f6 {+8.95/2 0.1} Rxa1 32. Qxa1
+{+8.95/2 0.1} Be8 33. c4 {+9.08/2 0.1} Bd7 34. d4 {+9.13/2 0.1} Be8 35. Qa6
+{+9.10/2 0.1} Bd7 36. Qa1 {+9.13/2 0.1} Be8 37. Qa7+ {+9.10/2 0.1} Bd7 38.
+Nb6 {+9.85/2 0.1} Bg7 39. fxg7+ {+13.74/2 0.1} Ke7 40. Bf6+ {+20.87/2 0.1}
+Kf7 41. Bxd8+ {+22.36/2 0.1} Kxg7 42. Bf6+ {+22.29/2 0.1} Kh7 43. Kf2
+{+22.23/2 0.1} Kh6 44. Nxd7 {+22.19/2 0.1} Kg6 45. Ke3 {+22.25/2 0.1}
+{Xboard: Forfeit due to invalid move: g6f6 (g6f6 via `0) res=24} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "5"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d6 {+0.12/2 0.1} 2. a5 Nc6 {+0.15/2 0.1} 3. a6 bxa6 {+0.57/2 0.1} 4.
+b3 Nf6 {+0.71/2 0.1} 5. c4 e5 {+0.66/2 0.1} 6. d3 h5 {+0.66/2 0.1} 7. e4
+Bg4 {+0.73/2 0.1} 8. f3 Bc8 {+0.47/2 0.1} 9. g3 Be7 {+0.66/2 0.1} 10. h4
+O-O {+0.85/2 0.1} 11. Nc3 Nd4 {+0.65/2 0.1} 12. b4 c5 {+0.75/2 0.1} 13.
+bxc5 dxc5 {+0.51/2 0.1} 14. Nb1 Bd6 {+0.62/2 0.1} 15. Nc3 Bb7 {+0.61/2 0.1}
+16. Nb1 Rb8 {+0.59/2 0.1} 17. Nc3 Rc8 {+0.60/2 0.1} 18. Nb1 Rc7
+{+0.59/2 0.1} 19. Nc3 Qe8 {+0.60/2 0.1} 20. Nb1 Qe7 {+0.60/2 0.1} 21. Nc3
+Re8 {+0.60/2 0.1} 22. Nb1 Rd8 {+0.60/2 0.1} 23. Nc3 Rdd7 {+0.60/2 0.1} 24.
+Nb1 Rc6 {+0.59/2 0.1} 25. Nc3 Rdc7 {+0.60/2 0.1} 26. Nb1 Rc8 {+0.59/2 0.1}
+27. Nc3 Re8 {+0.60/2 0.1} 28. Nb1 Rf8 {+0.60/2 0.1} 29. Nc3 Rfc8
+{+0.60/2 0.1} 30. Nb1 Rd8 {+0.60/2 0.1} 31. Nc3 Rd7 {+0.60/2 0.1} 32. Nb1
+Qe6 {+0.60/2 0.1} 33. Nc3 Re7 {+0.60/2 0.1} 34. Nb1 Rb6 {+0.59/2 0.1} 35.
+Nc3 Bc6 {+0.69/2 0.1} 36. Nb1 Nb3 {+0.62/2 0.1} 37. Rxa6 Rxa6 {+1.85/2 0.1}
+38. Qxb3 Rb7 {+1.85/2 0.1} 39. Qc3 Rxb1 {+4.34/2 0.1} 40. d4 exd4
+{+5.90/2 0.1} 41. Qd3 Rxc1+ {+8.28/2 0.1} 42. Ke2 Ra2+ {+15.37/2 0.1} 43.
+Qd2 Qxc4+ {+17.59/2 0.1} 44. Kf2 Qxf1# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "6"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. d4 {+0.10/2} a5 2. Nd2 {+0.12/2 0.1} a4 3. h4 {+0.05/2 0.1} a3 4. bxa3
+{+0.47/2 0.1} b5 5. c4 {+0.75/2 0.1} bxc4 6. Nxc4 {+0.61/2 0.1} c6 7. Bf4
+{+0.73/2 0.1} d5 8. Ne5 {+0.63/2 0.1} e6 9. Rb1 {+0.61/2 0.1} f5 10. Rh3
+{+0.61/2 0.1} g6 11. Qc2 {+0.74/2 0.1} h5 12. Nxg6 {+1.42/2 0.1} Rh6 13.
+Nxf8 {+4.37/2 0.1} Kxf8 14. Qc5+ {+4.36/2 0.1} Ne7 15. Bxh6+ {+6.45/2 0.1}
+Kg8 16. Rg3+ {+6.52/2 0.1} Kh8 17. Bg5 {+8.78/2 0.1} Nd7 18. Qxe7
+{+8.79/2 0.1} Qc7 19. Bf6+ {+14.39/2 0.1} Nxf6 20. Qxc7 {+14.34/2 0.1} c5
+21. Qg7# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "7"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 f5 {+0.10/2 0.1} 2. a5 c6 {+0.11/2 0.1} 3. a6 bxa6 {+0.70/2 0.1} 4.
+b4 Nf6 {+0.71/2 0.1} 5. c4 Qb6 {+0.74/2 0.1} 6. b5 axb5 {+1.55/2 0.1} 7.
+cxb5 Qxb5 {+1.32/2 0.1} 8. d4 Qb4+ {+1.50/2 0.1} 9. Nd2 Qxd4 {+2.22/2 0.1}
+10. Rb1 Ne4 {+2.18/2 0.1} 11. Nxe4 Qxd1+ {+2.32/2 0.1} 12. Kxd1 fxe4
+{+2.03/2 0.1} 13. e3 g5 {+2.22/2 0.1} 14. g4 h5 {+2.17/2 0.1} 15. gxh5 Rxh5
+{+2.12/2 0.1} 16. h3 Na6 {+2.15/2 0.1} 17. f4 Nc5 {+2.26/2 0.1} 18. f5 d5
+{+2.17/2 0.1} 19. f6 Bg4+ {+2.78/2 0.1} 20. hxg4 Rxh1 {+3.83/2 0.1} 21. f7+
+Kxf7 {+6.78/2 0.1} 22. Rb2 Rxg1 {+7.03/2 0.1} 23. Rb1 Rxf1+ {+10.11/2 0.1}
+24. Kd2 Rg1 {+10.71/2 0.1} 25. Rb2 e5 {+10.77/2 0.1} 26. Rb1 Bd6
+{+10.81/2 0.1} 27. Rb2 Ke6 {+10.77/2 0.1} 28. Rb1 Nd3 {+10.73/2 0.1} 29.
+Rb2 Rxc1 {+12.95/2 0.1} 30. Rb3 Rg1 {+12.95/2 0.1} 31. Rb7 c5
+{+13.69/2 0.1} 32. Rb3 c4 {+13.77/2 0.1} 33. Rb5 a5 {+13.73/2 0.1} 34. Rb6
+Rxg4 {+13.68/2 0.1} 35. Rb1 Kf5 {+13.69/2 0.1} 36. Rb5 Rg2+ {+13.68/2 0.1}
+37. Kd1 Bc5 {+14.43/2 0.1} 38. Rb1 Rg1+ {+14.52/2 0.1} 39. Kd2 Rxb1
+{+18.12/2 0.1} 40. Ke2 Rb2+ {+18.95/2 0.1}
+{Xboard: Forfeit due to invalid move: e2f2 (e2f2 via `0) res=24} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "8"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c3 {+0.11/2} a5 2. f3 {+0.06/2 0.1} a4 3. d4 {+0.03/2 0.1} a3 4. Nxa3
+{+0.62/2 0.1} b6 5. Bf4 {+0.73/2 0.1} c5 6. Nc4 {+0.72/2} cxd4 7. Qxd4
+{+0.79/2} b5 8. Qd5 {+1.32/2} Nc6 9. Ne5 {+1.36/2} b4 10. Qxf7#
+{+1000.01/2}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "9"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d5 {+0.12/2 0.1} 2. a5 Nc6 {+0.15/2 0.1} 3. a6 bxa6 {+0.34/2 0.1} 4.
+b3 Nf6 {+0.71/2 0.1} 5. c3 e5 {+0.67/2 0.1} 6. b4 Bf5 {+0.75/2 0.1} 7. d3
+Qc8 {+0.60/2 0.1} 8. e3 Bd6 {+0.70/2 0.1} 9. f3 O-O {+0.86/2 0.1} 10. g4
+Be6 {+0.59/2 0.1} 11. g5 Nd7 {+0.56/2 0.1} 12. h4 f5 {+0.67/2 0.1} 13. h5
+d4 {+0.64/2 0.1} 14. cxd4 Bxb4+ {+1.11/2 0.1} 15. Nd2 Bc3 {+1.41/2 0.1} 16.
+Ra3 Bxd2+ {+0.92/2 0.1} 17. Bxd2 exd4 {+0.48/2 0.1} 18. exd4 Nxd4
+{+0.61/2 0.1} 19. f4 Bd5 {+1.12/2 0.1} 20. Rh2 Re8+ {+1.09/2 0.1} 21. Kf2
+Nb5 {+1.03/2 0.1} 22. Ra1 c5 {+0.64/2 0.1} 23. Nh3 Qc6 {+1.04/2 0.1} 24.
+Ng1 Re6 {+0.98/2 0.1} 25. Nh3 Nd4 {+1.14/2 0.1} 26. Ng1 Nb3 {+1.41/2 0.1}
+27. Rxa6 Qxa6 {+4.76/2 0.1} 28. d4 Qc6 {+5.18/2 0.1} 29. Bc3 cxd4
+{+5.19/2 0.1} 30. Bb4 Qb6 {+5.57/2 0.1} 31. Ba3 d3+ {+8.88/2 0.1} 32. Kg3
+Qxg1+ {+9.56/2 0.1} 33. Kh3 Re3+ {+13.39/2 0.1} 34. Kh4 Qg3#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "10"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c4 {+0.10/2} a5 2. Nh3 {+0.04/2 0.1} a4 3. Nc3 {+0.53/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. f4 {+0.74/2 0.1} c5 6. g4 {+0.66/2 0.1} d6 7. Bg2
+{+0.77/2 0.1} Ra5 8. Bf3 {+0.67/2 0.1} e6 9. O-O {+0.86/2 0.1} f6 10. Ne4
+{+0.66/2 0.1} g6 11. Nhf2 {+0.64/2 0.1} h6 12. Nd3 {+0.64/2 0.1} Nc6 13.
+Nexc5 {+1.17/2 0.1} dxc5 14. Bxc6+ {+1.42/2 0.1} Ke7 15. Be4 {+1.50/2 0.1}
+b5 16. cxb5 {+2.06/2 0.1} c4 17. Nf2 {+2.09/2 0.1} Rxb5 18. Qa4
+{+2.12/2 0.1} Rb6 19. Qxc4 {+2.18/2 0.1} e5 20. Bxg6 {+2.76/2 0.1} exf4 21.
+Bd3 {+2.84/2 0.1} f3 22. Qe4+ {+2.81/2 0.1} Re6 23. Qxf3 {+2.87/2 0.1} h5
+24. gxh5 {+3.49/2 0.1} Nh6 25. Ne4 {+3.74/2 0.1} f5 26. Ng5 {+3.66/2 0.1}
+Re5 27. Bb2 {+3.71/2 0.1} f4 28. Bxe5 {+8.29/2 0.1} Rg8 29. Qxf4
+{+8.74/2 0.1} Ng4 30. Qf7# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. b4 Nf6 2. d4 Rg8 3. a4 Rh8 4. a5 Rg8 5. a6 Nxa6 6. Nc3 Rh8
+{xboard exit (Clocks: 197, 56)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. b4 Nf6 2. d4 Rg8 3. b5 Rh8 4. a4 Rg8
+{xboard exit (Clocks: 296, 303)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "-"]
+[White "florin"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. b4 Nf6 2. e4
+{xboard exit (Clocks: 301, 275)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. Nf3 d5 {+0.13/2 0.1} 2. Rg1 Na6 {+0.03/2 0.1} 3. Rh1 c5 {+0.15/2 0.1} 4.
+Rg1 Bf5 {+0.00/2 0.1} 5. Rh1 Nf6 {-0.02/2 0.1} 6. Rg1 Ng8 {+0.00/2 0.1} 7.
+Rh1 Nf6 {+0.00/2 0.1} 8. Rg1 Ng8 {+0.00/2 0.1} 9. Rh1 Nf6 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. f4 {+0.13/2} Nf6 2. Nf3 {+0.12/2 0.1} Rg8 3. d4 {+0.00/2 0.1} Rh8 4. c4
+{+0.00/2 0.1} Rg8 5. Nc3 {+0.00/2 0.1} Rh8 6. Be3 {-0.01/2 0.1} Rg8 7. Bc1
+{+0.00/2 0.1} Rh8 8. Be3 {+0.00/2 0.1} Rg8 9. Bc1 {+0.00/2 0.1} Rh8 10. Be3
+{+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. Nf3 f5 {+0.13/2 0.1} 2. Rg1 Nc6 {+0.15/2 0.1} 3. Rh1 d6 {+0.04/2 0.1} 4.
+Rg1 Be6 {-0.01/2 0.1} 5. Rh1 Bc8 {+0.00/2 0.1} 6. Rg1 Be6 {+0.00/2 0.1} 7.
+Rh1 Bc8 {+0.00/2 0.1} 8. Rg1 Be6 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nf3 {+0.11/2} Nf6 2. d3 {+0.09/2 0.1} Rg8 3. Be3 {+0.14/2 0.1} Rh8 4. c4
+{+0.00/2 0.1} Rg8 5. Nc3 {+0.00/2 0.1} Rh8 6. h4 {-0.09/2 0.1} Rg8 7. Ne4
+{-0.09/2 0.1} Nh5 8. g4 {+0.00/2 0.1} Rh8 9. gxh5 {+2.30/2 0.1} Rg8 10.
+Neg5 {+2.50/2 0.1} Rh8 11. Ne5 {+2.46/2 0.1} Rg8 12. Nexf7 {+9.16/2 0.1}
+Rh8 13. Nxd8 {+9.34/2 0.1}
+{Xboard: Forfeit due to invalid move: e8f7 (e8f7 via `0) res=24} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "5"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. Nf3 Nc6 {+0.14/2 0.1} 2. Rg1 d5 {+0.13/2 0.1} 3. Rh1 Bf5 {+0.11/2 0.1}
+4. Rg1 Nf6 {-0.02/2 0.1} 5. Rh1 Ng8 {+0.00/2 0.1} 6. Rg1 Nf6 {+0.00/2 0.1}
+7. Rh1 Ng8 {+0.00/2 0.1} 8. Rg1 Nf6 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "6"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nf3 {+0.13/2} Nf6 2. d4 {+0.14/2 0.1} Rg8 3. Nbd2 {+0.14/2 0.1} Rh8 4.
+c4 {+0.00/2 0.1} Rg8 5. h4 {-0.09/2 0.1} Nd5 6. cxd5 {+2.38/2 0.1} Rh8 7.
+g4 {+2.52/2 0.1} Rg8 8. Qc2 {+2.54/2 0.1} Rh8 9. Ne4 {+2.52/2 0.1} Rg8 10.
+Bf4 {+2.60/2 0.1} Rh8 11. Bxc7 {+8.67/2 0.1} Qxc7 12. Qxc7 {+8.85/2 0.1}
+{Xboard: Forfeit due to invalid move: e8d8 (e8d8 via `0) res=24} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "7"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. Nf3 d6 {+0.12/2 0.1} 2. Rg1 Be6 {+0.11/2 0.1} 3. Rh1 Nc6 {+0.10/2 0.1}
+4. Rg1 Nb8 {+0.00/2 0.1} 5. Rh1 h5 {+0.04/2 0.1} 6. Rg1 Nc6 {+0.00/2 0.1}
+7. Rh1 Nf6 {-0.02/2 0.1} 8. Rg1 Ng8 {+0.00/2 0.1} 9. Rh1 Nf6 {+0.00/2 0.1}
+10. Rg1 Ng8 {+0.00/2 0.1} 11. Rh1 Nf6 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "8"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nf3 {+0.13/2} Nf6 2. d4 {+0.12/2 0.1} Rg8 3. Nc3 {+0.15/2 0.1} Rh8 4.
+Bf4 {+0.00/2 0.1} Rg8 5. Nb1 {+0.07/2 0.1} Rh8 6. c4 {+0.00/2 0.1} Rg8 7.
+Nc3 {+0.00/2 0.1} Rh8 8. Nd5 {-0.08/2 0.1} Rg8 9. Nxc7+ {+6.47/2 0.1} Qxc7
+10. Bxc7 {+6.41/2 0.1}
+{Xboard: Forfeit due to invalid move: e8d8 (e8d8 via `0) res=24} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "9"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. Nf3 d6 {+0.10/2 0.1} 2. Rg1 Bf5 {+0.14/2 0.1} 3. Rh1 Nd7 {+0.13/2 0.1}
+4. Rg1 c5 {+0.00/2 0.1} 5. Rh1 Ngf6 {-0.02/2 0.1} 6. Rg1 Ne5 {-0.08/2 0.1}
+7. Rh1 Ned7 {+0.00/2 0.1} 8. Rg1 Ne5 {+0.00/2 0.1} 9. Rh1 Ned7
+{+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "10"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. d4 {+0.13/2} Nf6 2. Bg5 {+0.04/2 0.1} Rg8 3. Nc3 {+0.08/2 0.1} Rh8 4.
+Nb1 {+0.00/2 0.1} Rg8 5. c4 {+0.00/2 0.1} Rh8 6. Nc3 {+0.00/2 0.1} Rg8 7.
+Nf3 {-0.02/2 0.1} Rh8 8. Ng1 {+0.00/2 0.1} Rg8 9. Nf3 {+0.00/2 0.1} Rh8 10.
+Ng1 {+0.00/2 0.1} Rg8 11. Nf3 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. Nf3 f6 {+0.09/2 0.1} 2. Rg1 Nc6 {+0.07/2 0.1} 3. Rh1 Ne5 {+0.03/2 0.1}
+4. Rg1 c5 {+0.00/2 0.1} 5. Rh1 d5 {-0.09/2 0.1} 6. Rg1 Bf5 {+0.00/2 0.1} 7.
+Rh1 g5 {-0.09/2 0.1} 8. Ng1 Nh6 {-0.10/2 0.1} 9. d3 Nhg4 {-0.08/2 0.1} 10.
+Nh3 Qa5+ {-0.09/2 0.1} 11. Bd2 Qa4 {-0.15/2 0.1} 12. Qc1 O-O-O
+{+0.11/2 0.1} 13. Kd1 Bg7 {-0.12/2 0.1} 14. Ke1 Rde8 {-0.15/2 0.1} 15. Kd1
+Rd8 {+0.00/2 0.1} 16. Ke1 Rde8 {+0.00/2 0.1} 17. Kd1 Rd8 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nf3 {+0.08/2} Nf6 2. c3 {+0.05/2 0.1} Rg8 3. Qb3 {-0.02/2 0.1} Rh8 4. d4
+{+0.00/2 0.1} Rg8 5. Bf4 {+0.00/2 0.1} Rh8 6. Nbd2 {-0.01/2 0.1} Rg8 7.
+O-O-O {+0.11/2 0.1} Rh8 8. e4 {-0.09/2 0.1} Rg8 9. Bc4 {+0.05/2 0.1} Rh8
+10. Bxf7# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. Nf3 c5 {+0.13/2 0.1} 2. Rg1 f5 {+0.15/2 0.1} 3. Rh1 Nf6 {+0.06/2 0.1} 4.
+Rg1 Nc6 {+0.00/2 0.1} 5. Rh1 Nb8 {+0.00/2 0.1}
+{xboard exit (Clocks: 300, 309)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. Nf3 c6 {+0.13/2 0.1} 2. Rg1 f5 {+0.11/2 0.1} 3. Rh1 Nf6 {+0.10/2 0.1} 4.
+Rg1 b5 {-0.09/2 0.1} 5. Rh1 g6 {-0.11/2 0.1} 6. Rg1 Na6 {-0.12/2 0.1} 7. e3
+Nc5 {-0.01/2 0.1} 8. b4 Nce4 {-0.11/2 0.1} 9. Ba3 Ng4 {+0.54/2 0.1} 10. Qc1
+Ngxf2 {+0.58/2 0.1} 11. g4 Nxg4 {+1.41/2 0.1} 12. Ke2 Bg7 {+1.47/2 0.1} 13.
+Nd4 Nxh2 {+2.08/2 0.1} 14. Bh3 O-O {+2.34/2 0.1} 15. Kd1 Nf2+ {+5.19/2 0.1}
+16. Ke2 Nxh3 {+5.14/2 0.1} 17. Rh1 Nf4+ {+5.43/2 0.1} 18. exf4 Bxd4
+{+5.12/2 0.1} 19. Nc3 Ng4 {+5.26/2 0.1} 20. Kd1 Nf2+ {+6.98/2 0.1} 21. Ke2
+Nxh1 {+6.99/2 0.1} 22. Qxh1 e5 {+7.04/2 0.1} 23. Nxb5 Bxa1 {+9.27/2 0.1}
+24. Qxa1 Ba6 {+9.45/2 0.1} 25. Kd1 Bxb5 {+9.98/2 0.1} 26. Qxe5 Bc4
+{+9.67/2 0.1} 27. b5 Re8 {+10.30/2 0.1} 28. Qa1 Be2+ {+10.49/2 0.1} 29. Kc1
+Qa5 {+10.20/2 0.1} 30. Bd6 Re6 {+10.32/2 0.1} 31. Bc5 Qxb5 {+10.33/2 0.1}
+32. Bg1 a5 {+10.24/2 0.1} 33. Qd4 Re4 {+10.36/2 0.1} 34. Qa1 Rxf4
+{+10.95/2 0.1} 35. Qf6 Rf1# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.12/2} Nf6 2. Nf3 {+0.10/2 0.1} Rg8 3. d3 {+0.11/2 0.1} Rh8 4.
+Ng1 {+0.07/2 0.1} Rg8 5. Bf4 {+0.00/2 0.1} Rh8 6. Nf3 {+0.00/2 0.1} Rg8 7.
+Bc1 {+0.00/2 0.1}
+{xboard exit (Clocks: 313, 307)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. Nf3 c5 {+0.14/2 0.1} 2. Rg1 Nc6 {+0.06/2 0.1} 3. Rh1 h5 {+0.01/2 0.1} 4.
+Rg1 d5 {+0.00/2 0.1} 5. Rh1 Bf5 {+0.00/2 0.1} 6. Rg1 Nf6 {-0.02/2 0.1} 7.
+Rh1 Ng8 {+0.00/2 0.1} 8. Rg1 Nf6 {+0.00/2 0.1} 9. Rh1 Ng8 {+0.00/2 0.1} 10.
+Rg1 Nf6 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. d3 {+0.10/2} Nf6 2. Bf4 {+0.13/2 0.1}
+{xboard exit (Clocks: 303, 300)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. Nf3 f5 {+0.10/2 0.1} 2. Rg1 Nc6 {+0.12/2 0.1} 3. Rh1 e5 {+0.05/2 0.1} 4.
+Rg1 e4 {+1.41/2 0.1} 5. Rh1 exf3 {+1.66/2 0.1} 6. gxf3 Nf6 {+1.82/2 0.1} 7.
+Bh3 d5 {+1.76/2 0.1} 8. Kf1 f4 {+1.85/2 0.1} 9. Bxc8 Rxc8 {+1.68/2 0.1} 10.
+d3 Bd6 {+1.78/2 0.1} 11. Kg2 O-O {+1.94/2 0.1} 12. Kf1 a5 {+1.76/2 0.1} 13.
+Kg2 Nd4 {+1.73/2 0.1} 14. Kf1 Be5 {+1.71/2 0.1} 15. Kg2 b5 {+1.69/2 0.1}
+16. Kf1 b4 {+1.70/2 0.1} 17. Kg2 Nf5 {+1.68/2 0.1} 18. Kf1 Rb8
+{+1.70/2 0.1} 19. Kg2 Nh4+ {+2.02/2 0.1} 20. Kf1 Ng6 {+1.73/2 0.1} 21. Kg2
+Rc8 {+1.68/2 0.1} 22. Kf1 Ra8 {+1.70/2 0.1} 23. Kg2 Nh4+ {+2.10/2 0.1} 24.
+Kf1 Nf5 {+1.78/2 0.1} 25. Kg2 Rb8 {+1.68/2 0.1} 26. Kf1 Rb7 {+1.70/2 0.1}
+27. Kg2 Nh4+ {+2.02/2 0.1} 28. Kf1 Ng6 {+1.73/2 0.1} 29. Kg2 Qe8
+{+1.68/2 0.1} 30. Kf1 Qc6 {+1.71/2 0.1} 31. Kg2 Nh4+ {+2.10/2 0.1} 32. Kf1
+Nf5 {+1.78/2 0.1} 33. Kg2 Nd4 {+1.70/2 0.1} 34. Kf1 Nxc2 {+3.81/2 0.1} 35.
+Kg2 Nxa1 {+6.71/2 0.1} 36. Kf1 Qc2 {+7.20/2 0.1} 37. Qxc2 Nxc2
+{+7.07/2 0.1} 38. Kg2 Nd4 {+7.08/2 0.1} 39. Kf1 c5 {+6.93/2 0.1} 40. Kg2
+Nxe2 {+7.84/2 0.1} 41. Bd2 Bxb2 {+8.23/2 0.1} 42. Kf1 Nc1 {+8.47/2 0.1} 43.
+Bxf4 Nxd3 {+8.64/2 0.1} 44. Bd2 Bd4 {+8.60/2 0.1} 45. Ke2 Nxf2
+{+9.21/2 0.1} 46. Rg1 Re8+ {+9.58/2 0.1} 47. Kf1 Nd3 {+9.29/2 0.1} 48. Rh1
+a4 {+9.28/2 0.1} 49. Kg2 a3 {+9.81/2 0.1} 50. Kf1 Ne5 {+9.92/2 0.1} 51. f4
+Nf3 {+9.94/2 0.1} 52. Bc1 Re1+ {+10.36/2 0.1} 53. Kg2 Nh4+ {+14.42/2 0.1}
+54. Kh3 Rxh1 {+14.41/2 0.1} 55. Kxh4 Rxc1 {+14.73/2 0.1} 56. Nd2 Ra1
+{+15.03/2 0.1} 57. Kg3 Rxa2 {+15.40/2 0.1} 58. Nb1 Rb2 {+17.17/2 0.1} 59.
+Nxa3 Rb3+ {+17.23/2 0.1} 60. Kh4 bxa3 {+17.16/2 0.1} 61. Kg5 Rh3
+{+17.99/2 0.1} 62. Kf5 a2 {+18.64/2 0.1} 63. Ke6 a1=Q {+25.14/2 0.1} 64.
+Kf5 Kf7 {+25.32/2 0.1} 65. Kg5 Rh5# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. Nf3 c5 {+0.08/2 0.1} 2. Rg1 d6 {+0.10/2 0.1} 3. Rh1 Bf5 {+0.15/2 0.1} 4.
+Rg1 Nc6 {+0.00/2 0.1} 5. Rh1 Nb8 {+0.00/2 0.1} 6. Rg1 Bc8 {+0.00/2 0.1} 7.
+Rh1 Bg4 {+0.09/2 0.1} 8. Rg1 Nc6 {+0.00/2 0.1} 9. Rh1 Nb8 {+0.00/2 0.1} 10.
+Rg1 Bc8 {+0.00/2 0.1} 11. Rh1 Bf5 {+0.00/2 0.1} 12. Rg1 Nc6 {+0.00/2 0.1}
+13. Rh1 Nb8 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. c4 {+0.15/2} Nf6 2. d3 {+0.12/2 0.1} Rg8 3. Be3 {+0.08/2 0.1} Rh8 4. Nc3
+{+0.00/2 0.1} Rg8 5. Nb1 {+0.00/2 0.1} Rh8 6. Nc3 {+0.00/2 0.1} Rg8 7. Nb1
+{+0.00/2 0.1} Rh8 8. Nc3 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "1/2-1/2"]
+[TimeControl "300+2"]
+
+1. Nf3 c6 {+0.12/2 0.1} 2. Rg1 Nf6 {+0.10/2 0.1} 3. Rh1 g6 {+0.03/2 0.1} 4.
+Rg1 d5 {+0.00/2 0.1} 5. Rh1 Bf5 {+0.00/2 0.1} 6. Rg1 Nbd7 {-0.01/2 0.1} 7.
+Rh1 Nb8 {+0.00/2 0.1} 8. Rg1 Nbd7 {+0.00/2 0.1} 9. Rh1 Nb8 {+0.00/2 0.1}
+10. Rg1 Nbd7 {+0.00/2 0.1}
+{Draw by repetition} 1/2-1/2
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c5 {+0.10/2 0.1} 2. a5 Nc6 {+0.64/2 0.1} 3. a6 bxa6 {+0.66/2 0.1} 4.
+b3 f5 {+0.74/2 0.1} 5. c4 Nf6 {+0.71/2 0.1} 6. d3 Ne5 {+0.65/2 0.1} 7. e3
+g5 {+0.66/2 0.1} 8. f3 Bg7 {+0.62/2 0.1} 9. g3 O-O {+0.85/2 0.1} 10. h3 Nh5
+{+0.65/2 0.1} 11. b4 Nxd3+ {+3.01/2 0.1} 12. Bxd3 Bxa1 {+3.12/2 0.1} 13.
+bxc5 Nxg3 {+3.36/2 0.1} 14. Rh2 Qa5+ {+3.75/2 0.1} 15. Nd2 Be5
+{+4.24/2 0.1} 16. c6 dxc6 {+3.91/2 0.1} 17. Rf2 Qc3 {+4.13/2 0.1} 18. Bc2
+Qxe3+ {+4.84/2 0.1} 19. Ne2 Be6 {+4.88/2 0.1} 20. Ne4 Rad8 {+2.74/2 0.1}
+21. Bxe3 Rxd1+ {+2.74/2 0.1} 22. Bxd1 fxe4 {+2.74/2 0.1} 23. fxe4 Rxf2
+{+3.07/2 0.1} 24. Nxg3 Rg2 {+4.05/2 0.1} 25. Nh5 Bxc4 {+4.28/2 0.1} 26.
+Bxa7 Bc3# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.18"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.14/2} a5 2. f4 {+0.11/2 0.1} a4 3. Nf3 {+0.11/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. e4 {+0.66/2 0.1} c5 6. Bd3 {+0.69/2 0.1} d6 7. O-O
+{+0.85/2 0.1} e6 8. Bb2 {+0.60/2 0.1} f6 9. Bb5+ {+0.60/2 0.1} Nd7 10. Bc4
+{+0.79/2 0.1} Nb8 11. Bd3 {+0.60/2 0.1} g6 12. Bb5+ {+0.60/2 0.1}
+{xboard exit (Clocks: 323, 308)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 c5 {+0.12/2 0.1} 2. a5 Nc6 {+0.63/2 0.1} 3. a6 bxa6 {+0.47/2 0.1} 4.
+b3 f5 {+0.74/2 0.1} 5. c4 Nf6 {+0.71/2 0.1} 6. d3 Ne5 {+0.65/2 0.1} 7. e3
+g5 {+0.66/2 0.1} 8. f3 Bg7 {+0.62/2 0.1} 9. g3 O-O {+0.85/2 0.1} 10. h3 Nh5
+{+0.65/2 0.1} 11. b4 Nxd3+ {+3.01/2 0.1} 12. Bxd3 Bxa1 {+3.12/2 0.1} 13.
+bxc5 Nxg3 {+3.36/2 0.1} 14. Rh2 Qa5+ {+3.75/2 0.1} 15. Nd2 Be5
+{+4.24/2 0.1} 16. c6 dxc6 {+3.91/2 0.1} 17. Rf2 Qc3 {+4.13/2 0.1} 18. Bc2
+Qxe3+ {+4.84/2 0.1} 19. Ne2 Be6 {+4.88/2 0.1} 20. Ne4 Rad8 {+2.74/2 0.1}
+21. Bxe3 Rxd1+ {+2.74/2 0.1} 22. Bxd1 fxe4 {+2.74/2 0.1} 23. fxe4 Rxf2
+{+3.07/2 0.1} 24. Nxg3 Rg2 {+4.05/2 0.1} 25. Nh5 Bxc4 {+4.28/2 0.1} 26.
+Bxa7 Bc3# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.10/2} a5 2. f3 {+0.11/2 0.1} a4 3. Nd5 {+0.03/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b5 5. e4 {+0.76/2 0.1} b4 6. axb4 {+1.34/2 0.1} c6 7. Nf4
+{+1.34/2 0.1} d6 8. Bd3 {+1.44/2 0.1} e5 9. Nfe2 {+1.29/2 0.1} f6 10. a4
+{+1.41/2 0.1} g5 11. Nh3 {+1.39/2 0.1} c5 12. bxc5 {+1.45/2 0.1} dxc5 13.
+O-O {+1.59/2 0.1} h5 14. Nf2 {+1.37/2 0.1} f5 15. exf5 {+1.98/2 0.1} g4 16.
+Be4 {+2.89/2 0.1} Ra5 17. fxg4 {+2.73/2 0.1} h4 18. Nd3 {+2.86/2 0.1} c4
+19. Nf2 {+2.78/2 0.1} Na6 20. Bb2 {+2.84/2 0.1} Nb8 21. Bc3 {+3.05/2 0.1}
+Ra6 22. Bxe5 {+4.78/2 0.1} Nf6 23. Bxb8 {+4.79/2 0.1} Bd7 24. Be5
+{+5.85/2 0.1} c3 25. Nxc3 {+6.93/2 0.1} h3 26. Nxh3 {+7.63/2 0.1} Rxh3 27.
+gxh3 {+8.47/2 0.1} Nxe4 28. Nxe4 {+8.48/2 0.1} Rxa4 29. Nf6+ {+8.94/2 0.1}
+Ke7 30. Nd5+ {+8.94/2 0.1} Kf7 31. f6 {+8.95/2 0.1} Rxa1 32. Qxa1
+{+8.95/2 0.1} Be8 33. c4 {+9.08/2 0.1} Bd7 34. d4 {+9.13/2 0.1} Be8 35. Qa6
+{+9.10/2 0.1} Bd7 36. Qa1 {+9.13/2 0.1} Be8 37. Qa7+ {+9.10/2 0.1} Bd7 38.
+Nb6 {+9.85/2 0.1} Bg7 39. fxg7+ {+13.74/2 0.1} Ke7 40. Bf6+ {+20.87/2 0.1}
+Kf7 41. Bxd8+ {+22.36/2 0.1} Kxg7 42. Bf6+ {+22.29/2 0.1} Kh7 43. Kf2
+{+22.23/2 0.1} Kh6 44. Nxd7 {+22.19/2 0.1} Kg6 45. Ke3 {+22.25/2 0.1}
+{Xboard: Forfeit due to invalid move: g6f6 (g6f6 via `0) res=24} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 c6 {+0.13/2 0.1} 2. a5 f6 {+0.12/2 0.1} 3. a6 Nxa6 {+0.66/2 0.1} 4.
+b3 Nc5 {+0.72/2 0.1} 5. b4 Ne4 {+0.62/2 0.1} 6. c4 b5 {+0.67/2 0.1} 7. c5
+g5 {+0.66/2 0.1} 8. d4 Nh6 {+0.65/2 0.1} 9. e3 Nf5 {+0.70/2 0.1} 10. f3 d5
+{-1.06/2 0.1} 11. fxe4 dxe4 {-1.24/2 0.1} 12. g4 Nh6 {-1.28/2 0.1} 13. h3
+Be6 {-1.12/2 0.1} 14. Nc3 a5 {-1.23/2 0.1} 15. bxa5 Rxa5 {-1.20/2 0.1} 16.
+Na2 Rxa2 {+1.28/2 0.1} 17. Rxa2 Bxa2 {+1.18/2 0.1} 18. d5 Bxd5
+{+2.33/2 0.1} 19. h4 Nf7 {+2.16/2 0.1} 20. h5 Bg7 {+2.15/2 0.1} 21. Nh3 O-O
+{+2.39/2 0.1} 22. Ng1 Qd7 {+2.13/2 0.1} 23. Nh3 Ne5 {+2.22/2 0.1} 24. h6
+Nf3+ {+3.05/2 0.1}
+{xboard exit (Clocks: 304, 345)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 f5 {+0.13/2 0.1} 2. a5 d6 {+0.03/2 0.1} 3. a6 Nxa6 {+0.75/2 0.1} 4.
+b3 c5 {+0.74/2 0.1} 5. c4 Be6 {+0.72/2 0.1} 6. d4 Nf6 {+0.72/2 0.1} 7. d5
+Bf7 {+0.54/2 0.1} 8. e4 Nxe4 {+1.36/2 0.1} 9. f4 Nb4 {+1.43/2 0.1} 10. g3
+e6 {+1.42/2 0.1} 11. dxe6 Bxe6 {+1.39/2 0.1} 12. h4 Nxg3 {+2.66/2 0.1} 13.
+Rh2 Nxf1 {+2.68/2 0.1} 14. Kxf1 Qf6 {+2.58/2 0.1} 15. Ra3 Be7 {+2.52/2 0.1}
+16. h5 O-O {+2.71/2 0.1} 17. Nd2 Nd3 {+2.78/2 0.1} 18. b4 Nxc1
+{+3.50/2 0.1} 19. b5 Qb2 {+5.55/2 0.1} 20. Ra4 Nd3 {+5.58/2 0.1} 21. b6
+axb6 {+6.29/2 0.1} 22. h6 Rxa4 {+6.95/2 0.1} 23. Qxa4 Qc1+ {+8.36/2 0.1}
+24. Kg2 Qxd2+ {+9.13/2 0.1} 25. Kg3 Qxf4+ {+10.46/2 0.1} 26. Kg2 Bd5+
+{+10.57/2 0.1} 27. Nf3 Bxf3+ {+13.05/2 0.1} 28. Kg1 Qc1+ {+20.07/2 0.1} 29.
+Qd1 Qxd1# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.12/2} a5 2. f4 {+0.11/2 0.1} a4 3. d3 {+0.01/2 0.1} a3 4. bxa3
+{+0.47/2 0.1} b6 5. Nf3 {+0.71/2 0.1} c5 6. e4 {+0.66/2 0.1} d6 7. Be2
+{+0.66/2 0.1} e6 8. O-O {+0.85/2 0.1} f6 9. Bb2 {+0.60/2 0.1} g6 10. Rb1
+{+0.59/2 0.1} h5 11. Rc1 {+0.59/2 0.1} h4 12. Qe1 {+0.66/2 0.1} Nc6 13.
+Nxh4 {+1.32/2 0.1} g5 14. Ng6 {+2.64/2 0.1} Rh4 15. Nxh4 {+4.17/2 0.1} gxh4
+16. Bh5+ {+4.17/2 0.1} Ke7 17. Bg6 {+3.96/2 0.1} b5 18. Nxb5 {+4.04/2 0.1}
+c4 19. Qxh4 {+4.79/2 0.1} cxd3 20. Qh7+ {+6.35/2 0.1} Bg7 21. Qxg7#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d5 {+0.11/2 0.1} 2. a5 Nd7 {+0.06/2 0.1} 3. a6 bxa6 {+0.33/2 0.1} 4.
+b4 c5 {+0.75/2 0.1} 5. bxc5 Nxc5 {+0.61/2 0.1} 6. c3 Bf5 {+0.73/2 0.1} 7.
+d4 Ne4 {+0.63/2 0.1} 8. e3 Rb8 {+0.61/2 0.1} 9. f4 Qc7 {+0.58/2 0.1} 10. g4
+Nxc3 {+1.29/2 0.1} 11. Nxc3 Qxc3+ {-0.95/2 0.1} 12. Bd2 Bxg4 {-0.96/2 0.1}
+13. Qxg4 Qxa1+ {+3.90/2 0.1} 14. Ke2 Nf6 {+3.83/2 0.1} 15. Qh4 Ne4
+{+3.77/2 0.1} 16. Be1 Qa2+ {+3.95/2 0.1} 17. Kf3 f5 {+3.69/2 0.1} 18. h3 g6
+{+3.67/2 0.1} 19. Ne2 Nd2+ {+3.94/2 0.1} 20. Bxd2 Qxd2 {+4.04/2 0.1} 21.
+Ng3 Rb3 {+4.11/2 0.1} 22. Bxa6 Rxe3# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. f3 {+0.07/2} a5 2. c3 {+0.08/2 0.1} a4 3. g3 {+0.04/2 0.1} a3 4. b4
+{+0.67/2 0.1} b5 5. Nxa3 {+0.73/2 0.1} c5 6. Nxb5 {+1.54/2 0.1} c4 7. d3
+{+1.52/2 0.1} cxd3 8. Qxd3 {+1.33/2 0.1} d5 9. Bf4 {+1.48/2 0.1} e6 10.
+Nc7+ {+5.86/2 0.1} Kd7 11. Nxa8 {+5.59/2 0.1} e5 12. Qxd5+ {+7.30/2 0.1}
+Ke8 13. Qxe5+ {+9.64/2 0.1} Be6 14. Nc7+ {+10.47/2 0.1} Ke7 15. Nxe6
+{+10.40/2 0.1} fxe6 16. Qxb8 {+10.36/2 0.1} g5 17. Bxg5+ {+13.80/2 0.1} Nf6
+18. Bxf6+ {+19.41/2 0.1} Kxf6 19. Qxd8+ {+19.50/2 0.1} Kg6 20. O-O-O
+{+19.35/2 0.1} e5 21. Kd2 {+19.28/2 0.1} e4 22. fxe4 {+19.95/2 0.1} h5 23.
+Nf3 {+20.08/2 0.1} h4 24. Qb6+ {+20.68/2 0.1} Kg7 25. Qd4+ {+20.72/2 0.1}
+Kh7 26. Qd7+ {+20.63/2 0.1} Bg7 27. Qf5+ {+20.63/2 0.1} Kh6 28. Qg5+
+{+20.75/2 0.1} Kh7 29. gxh4 {+20.68/2 0.1} Kg8 30. Rg1 {+20.72/2 0.1} Kf8
+31. Qxg7+ {+28.10/2 0.1} Ke8 32. Qxh8+ {+28.06/2 0.1}
+{Xboard: Forfeit due to invalid move: e8f8 (e8f8 via `0) res=24} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "5"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d5 {+0.10/2 0.1} 2. a5 Bf5 {+0.12/2 0.1} 3. a6 Nxa6 {+0.71/2 0.1} 4.
+b3 Nb4 {+0.76/2 0.1} 5. c3 Nc2+ {+6.55/2 0.1} 6. Qxc2 Bxc2 {+6.62/2 0.1} 7.
+b4 c6 {+6.64/2 0.1} 8. d4 Nf6 {+6.64/2 0.1} 9. e3 Be4 {+6.62/2 0.1} 10. f4
+h5 {+6.61/2 0.1} 11. h4 g6 {+6.59/2 0.1} 12. Nd2 Bf5 {+6.52/2 0.1} 13. g3
+Ng4 {+6.61/2 0.1} 14. Ndf3 Bg7 {+6.59/2 0.1} 15. Ng5 O-O {+6.79/2 0.1} 16.
+N5h3 Be4 {+9.09/2 0.1} 17. Nf3 Bxf3 {+9.22/2 0.1} 18. Rg1 Bf6 {+9.22/2 0.1}
+19. Ng5 Nh2 {+8.88/2 0.1} 20. Nxf3 Nxf3+ {+11.15/2 0.1} 21. Kd1 Nxg1
+{+13.09/2 0.1} 22. Rb1 Nf3 {+13.35/2 0.1} 23. b5 e6 {+13.26/2 0.1} 24. b6
+axb6 {+14.04/2 0.1} 25. Bg2 Nh2 {+13.76/2 0.1} 26. Rb2 Ng4 {+13.99/2 0.1}
+27. Rb1 Nf2+ {+14.22/2 0.1} 28. Ke1 Nd3+ {+14.47/2 0.1} 29. Kf1 Nxc1
+{+14.55/2 0.1} 30. Rxc1 c5 {+14.46/2 0.1} 31. dxc5 bxc5 {+14.30/2 0.1} 32.
+Rb1 Ra3 {+14.43/2 0.1} 33. Rxb7 Rxc3 {+14.55/2 0.1} 34. e4 Rxg3
+{+15.17/2 0.1} 35. exd5 exd5 {+15.26/2 0.1} 36. f5 gxf5 {+15.95/2 0.1} 37.
+Rb1 Bxh4 {+16.53/2 0.1} 38. Rb2 f4 {+16.76/2 0.1} 39. Rb1 f3 {+17.36/2 0.1}
+40. Bh1 Rh3 {+17.31/2 0.1} 41. Bg2 fxg2+ {+18.66/2 0.1} 42. Kg1 Rh1+
+{+23.24/2 0.1} 43. Kxg2 Rxb1 {+23.24/2 0.1} 44. Kh2 f5 {+23.32/2 0.1} 45.
+Kg2 f4 {+23.42/2 0.1} 46. Kh2 f3 {+23.89/2 0.1}
+{Xboard: Forfeit due to invalid move: h2g2 (h2g2 via `0) res=24} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "6"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. e4 {+0.04/2} a5 2. Nc3 {+0.10/2 0.1} a4 3. Bb5 {+0.12/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. f4 {+0.75/2 0.1} c5 6. Nf3 {+0.72/2 0.1} e6 7. O-O
+{+0.84/2 0.1} f6 8. Bd3 {+0.65/2 0.1} d6 9. Bb2 {+0.60/2 0.1} g6 10. Bb5+
+{+0.60/2 0.1} Nd7 11. Bc6 {+0.77/2 0.1} Rb8 12. Ne2 {+0.67/2 0.1} b5 13.
+Bc3 {+0.76/2 0.1} b4 14. axb4 {+0.96/2 0.1} c4 15. Ned4 {+1.50/2 0.1} d5
+16. Nxe6 {+2.21/2 0.1} Qe7 17. Nxf8 {+3.27/2 0.1} Qxf8 18. Bxd5
+{+3.37/2 0.1} g5 19. Nxg5 {+3.96/2 0.1} h5 20. Bf7+ {+4.91/2 0.1} Kd8 21.
+Ne6+ {+9.86/2 0.1} Ke7 22. Nxf8 {+9.87/2 0.1} Kxf7 23. Nxd7 {+9.59/2 0.1}
+Bxd7 24. a4 {+9.64/2 0.1} h4 25. d3 {+9.58/2 0.1} cxd3 26. Qxd3
+{+9.57/2 0.1} Be8 27. Qc4+ {+9.85/2 0.1} Kg7 28. Qc7+ {+13.95/2 0.1} Ne7
+29. Qxb8 {+14.06/2 0.1} Bf7 30. Bxf6+ {+16.43/2 0.1} Kxf6 31. Qxh8+
+{+17.20/2 0.1} Kg6 32. Qxh4 {+17.02/2 0.1} Ng8 33. Qg5+ {+17.10/2 0.1} Kh7
+34. Kf2 {+17.06/2 0.1} Nh6 35. g4 {+17.03/2 0.1} Ng8 36. e5 {+17.05/2 0.1}
+Nh6 37. h4 {+17.02/2 0.1} Ng8 38. f5 {+17.05/2 0.1} Nh6 39. e6
+{+17.68/2 0.1} Bg8 40. Qg6+ {+20.30/2 0.1} Kh8 41. Qxh6+ {+20.24/2 0.1} Bh7
+42. f6 {+20.83/2 0.1} Kg8 43. Qg7# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.20"]
+[Round "7"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "300+2"]
+
+1. a4 f5 {+0.15/2 0.1} 2. a5 c6 {+0.12/2 0.1} 3. a6 Nxa6 {+0.76/2 0.1} 4.
+b3 Nc5 {+0.72/2 0.1} 5. b4 Ne4 {+0.62/2 0.1} 6. c4 Ngf6 {+0.71/2 0.1} 7. c5
+g5 {+0.66/2 0.1} 8. d4 b5 {+0.67/2 0.1} 9. e3 Nd5 {+0.71/2 0.1} 10. f4 gxf4
+{+1.42/2 0.1} 11. exf4 Nxb4 {+1.26/2 0.1} 12. g3 Bg7 {+1.49/2 0.1}
+{xboard exit (Clocks: 292, 322)} *
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "1"]
+[White "make"]
+[Black "fairymax"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 f6 {+0.05/2 0.1} 2. a5 c6 {+0.08/2 0.1} 3. a6 b5 {+0.67/2 0.1} 4. b4
+Nxa6 {+0.73/2 0.1} 5. c4 Nxb4 {+1.54/2 0.1} 6. c5 d6 {+1.52/2 0.1} 7. cxd6
+e5 {+1.39/2 0.1} 8. d7+ Bxd7 {+1.42/2 0.1} 9. d3 Bd6 {+1.43/2 0.1} 10. e4
+Ne7 {+1.43/2 0.1} 11. f3 O-O {+1.59/2 0.1} 12. g4 Be6 {+1.38/2 0.1} 13. h4
+Qe8 {+1.33/2 0.1} 14. h5 Qd7 {+1.33/2 0.1} 15. Nc3 Rab8 {+1.34/2 0.1} 16.
+Nb1 Rbc8 {+1.34/2 0.1} 17. Nc3 Rcd8 {+1.34/2 0.1} 18. Nb1 Bc5 {+1.47/2 0.1}
+19. Nc3 Nxd3+ {+2.54/2 0.1} 20. Bxd3 Qxd3 {+2.50/2 0.1} 21. Nxb5 Qxd1#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. f3 {+0.05/2} a5 2. d4 {+0.06/2 0.1} a4 3. c3 {+0.02/2 0.1} a3 4. Nxa3
+{+0.62/2 0.1} b6 5. Bf4 {+0.73/2 0.1} c5 6. Nc4 {+0.72/2 0.1} cxd4 7. Qxd4
+{+0.79/2 0.1} b5 8. Qd5 {+1.32/2 0.1} Nc6 9. Ne5 {+1.36/2 0.1} b4 10. Qxf7#
+{+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d6 {+0.05/2 0.1} 2. a5 Nd7 {+0.06/2 0.1} 3. a6 bxa6 {+0.55/2 0.1} 4.
+b4 c5 {+0.83/2 0.1} 5. bxc5 Nxc5 {+0.61/2 0.1} 6. c4 Be6 {+0.81/2 0.1} 7.
+e3 Nf6 {+0.71/2 0.1} 8. d4 Bg4 {+0.59/2 0.1} 9. Qd2 Nb3 {+2.34/2 0.1} 10.
+Qc2 Nxa1 {+5.01/2 0.1} 11. Qd2 Nb3 {+5.66/2 0.1} 12. Qc2 Nxc1 {+5.67/2 0.1}
+13. f4 Qa5+ {+7.99/2 0.1} 14. Nc3 Na2 {+8.08/2 0.1} 15. Qxa2 Qxc3+
+{+8.28/2 0.1} 16. Qd2 Qxd2+ {+8.55/2 0.1} 17. Kxd2 Ne4+ {+8.45/2 0.1} 18.
+Kc2 Nf2 {+9.33/2 0.1} 19. c5 Nxh1 {+11.71/2 0.1} 20. c6 Bf5+ {+11.87/2 0.1}
+21. e4 Bxe4+ {+13.90/2 0.1} 22. Kd2 Bxc6 {+13.87/2 0.1} 23. Bxa6 Bxg2
+{+13.87/2 0.1} 24. f5 g6 {+14.07/2 0.1} 25. fxg6 Bh6+ {+14.21/2 0.1} 26.
+Ke2 hxg6 {+14.09/2 0.1} 27. h4 Ng3+ {+14.18/2 0.1} 28. Kf2 Bf4
+{+11.97/2 0.1} 29. Kxg2 Rxh4 {+11.69/2 0.1} 30. d5 f5 {+11.75/2 0.1} 31.
+Nh3 Be5 {+11.70/2 0.1} 32. Ng5 Ne4 {+11.81/2 0.1} 33. Nh3 Rg4+
+{+11.77/2 0.1} 34. Kh1 Rg3 {+11.75/2 0.1} 35. Ng1 Kd7 {+11.75/2 0.1} 36.
+Ne2 Rh8# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c4 {+0.10/2} a5 2. Nc3 {+0.15/2 0.1} a4 3. f3 {+0.75/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. g4 {+0.66/2 0.1} c5 6. Ne4 {+0.65/2 0.1} d6 7. Nh3
+{+0.64/2 0.1} e5 8. Nhg5 {+0.66/2 0.1} b5 9. cxb5 {+1.21/2 0.1} c4 10. Qc2
+{+1.43/2 0.1} c3 11. Qxc3 {+2.08/2 0.1} d5 12. Qxe5+ {+2.84/2 0.1} Kd7 13.
+Qxd5+ {+8.03/2 0.1} Bd6 14. Qxa8 {+8.66/2 0.1} Be7 15. Qd5+ {+9.12/2 0.1}
+Kc7 16. Qxd8+ {+9.15/2 0.1} Bxd8 17. Nxf7 {+8.81/2 0.1} g5 18. Nxh8
+{+13.04/2 0.1} h6 19. Nf7 {+13.39/2 0.1} Be7 20. Ne5 {+13.25/2 0.1} Bb7 21.
+Ng6 {+13.38/2 0.1} Bd8 22. Ne5 {+13.24/2 0.1} h5 23. gxh5 {+13.85/2 0.1} g4
+24. Nxg4 {+14.62/2 0.1} Nd7 25. h6 {+15.26/2 0.1} Nf8 26. d4 {+15.34/2 0.1}
+Ng6 27. h7 {+15.92/2 0.1} N8e7 28. Be3 {+16.08/2 0.1} Nh8 29. Bf4+
+{+16.30/2 0.1} Kd7 30. Nc5+ {+16.77/2 0.1} Ke8 31. Nf6+ {+19.08/2 0.1} Kf8
+32. Ne6+ {+19.08/2 0.1} Kf7 33. Nxd8+ {+19.43/2 0.1} Kg7 34. Nxb7
+{+19.35/2 0.1} Kxf6 35. Be5+ {+19.89/2 0.1} Kg6 36. Bxh8 {+19.90/2 0.1} Nf5
+37. b6 {+20.70/2 0.1} Ng7 38. Rg1+ {+23.40/2 0.1} Kh6 39. Rxg7
+{+25.21/2 0.1}
+{Xboard: Forfeit due to invalid move: h6g7 (h6g7 via `0) res=24} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "5"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 Nc6 {+0.13/2 0.1} 2. a5 f6 {+0.04/2 0.1} 3. a6 bxa6 {+0.48/2 0.1} 4.
+b3 e5 {+0.66/2 0.1} 5. c4 Bd6 {+0.69/2 0.1} 6. d3 Nge7 {+0.69/2 0.1} 7. e4
+O-O {+0.85/2 0.1} 8. f3 Nd4 {+0.64/2 0.1} 9. g4 c5 {+0.66/2 0.1} 10. h4 Bb7
+{+0.60/2 0.1} 11. h5 Qb6 {+0.60/2 0.1} 12. Nc3 Nxb3 {+1.38/2 0.1} 13. Rxa6
+Bxa6 {+5.01/2 0.1} 14. Bb2 Nd4 {+5.28/2 0.1} 15. Nb5 Nxb5 {+6.09/2 0.1} 16.
+cxb5 Qa5+ {+6.14/2 0.1} 17. Qd2 Qxd2+ {+6.16/2 0.1} 18. Kxd2 Bxb5
+{+5.91/2 0.1} 19. Nh3 Bc6 {+5.86/2 0.1} 20. Ng1 a5 {+5.85/2 0.1} 21. Nh3 a4
+{+5.89/2 0.1} 22. Ng1 a3 {+6.42/2 0.1} 23. Bc1 a2 {+7.03/2 0.1} 24. h6 a1=Q
+{+13.41/2 0.1} 25. hxg7 Ra2+ {+13.85/2 0.1} 26. Bb2 Rxb2+ {+16.70/2 0.1}
+27. Ke3 Qc1# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "6"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c4 {+0.12/2} a5 2. f4 {+0.14/2 0.1} a4 3. Nc3 {+0.52/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. Nf3 {+0.71/2 0.1} c5 6. g4 {+0.66/2 0.1} d6 7. Bh3
+{+0.61/2 0.1} e6 8. O-O {+0.85/2 0.1} f6 9. Ne4 {+0.65/2 0.1} g6 10. Bg2
+{+0.60/2 0.1} h6 11. Nh4 {+0.65/2 0.1} b5 12. Nxd6+ {+3.01/2 0.1} Bxd6 13.
+Bxa8 {+3.12/2 0.1} bxc4 14. Nxg6 {+3.36/2 0.1} Rh7 15. Qa4+ {+3.75/2 0.1}
+Nd7 16. Be4 {+4.24/2 0.1} c3 17. dxc3 {+3.91/2 0.1} Rf7 18. Qc6
+{+4.13/2 0.1} Bc7 19. Qxe6+ {+4.84/2 0.1} Ne7 20. Be3 {+4.88/2 0.1} Ne5 21.
+Rad1 {+2.74/2 0.1} Bxe6 22. Rxd8+ {+2.74/2 0.1} Bxd8 23. fxe5 {+2.74/2 0.1}
+fxe5 24. Rxf7 {+3.07/2 0.1} Nxg6 25. Rg7 {+4.05/2 0.1} Nh8 26. Bxc5
+{+4.40/2 0.1} Bxa2 27. Bc6# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "7"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 Nc6 {+0.11/2 0.1} 2. a5 d6 {+0.13/2 0.1} 3. a6 bxa6 {+0.48/2 0.1} 4.
+b3 Nf6 {+0.71/2 0.1} 5. c4 e5 {+0.66/2 0.1} 6. d3 h5 {+0.66/2 0.1} 7. e4
+Bg4 {+0.73/2 0.1} 8. f3 Bc8 {+0.47/2 0.1} 9. g3 Be7 {+0.66/2 0.1} 10. h4
+O-O {+0.85/2 0.1} 11. Nc3 Nd4 {+0.65/2 0.1} 12. b4 c5 {+0.75/2 0.1} 13.
+bxc5 dxc5 {+0.51/2 0.1} 14. Nb1 Bd6 {+0.62/2 0.1} 15. Nc3 Bb7 {+0.61/2 0.1}
+16. Nb1 Rb8 {+0.59/2 0.1} 17. Nc3 Rc8 {+0.60/2 0.1} 18. Nb1 Rc7
+{+0.59/2 0.1} 19. Nc3 Qe8 {+0.60/2 0.1} 20. Nb1 Qe7 {+0.60/2 0.1} 21. Nc3
+Re8 {+0.60/2 0.1} 22. Nb1 Rd8 {+0.60/2 0.1} 23. Nc3 Rdd7 {+0.60/2 0.1} 24.
+Nb1 Rc6 {+0.59/2 0.1} 25. Nc3 Rdc7 {+0.60/2 0.1} 26. Nb1 Rc8 {+0.59/2 0.1}
+27. Nc3 Re8 {+0.60/2 0.1} 28. Nb1 Rf8 {+0.60/2 0.1} 29. Nc3 Rfc8
+{+0.60/2 0.1} 30. Nb1 Rd8 {+0.60/2 0.1} 31. Nc3 Rd7 {+0.60/2 0.1} 32. Nb1
+Qe6 {+0.60/2 0.1} 33. Nc3 Re7 {+0.60/2 0.1} 34. Nb1 Rb6 {+0.59/2 0.1} 35.
+Nc3 Bc6 {+0.69/2 0.1} 36. Nb1 Nb3 {+0.62/2 0.1} 37. Rxa6 Rxa6 {+1.85/2 0.1}
+38. Qxb3 Rb7 {+1.85/2 0.1} 39. Qc3 Rxb1 {+4.34/2 0.1} 40. d4 exd4
+{+5.90/2 0.1} 41. Qd3 Rxc1+ {+8.28/2 0.1} 42. Ke2 Ra2+ {+15.37/2 0.1} 43.
+Qd2 Qxc4+ {+17.59/2 0.1} 44. Kf2 Qxf1# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "8"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. d4 {+0.13/2} a5 2. Be3 {+0.11/2 0.1} a4 3. Nf3 {+0.13/2 0.1} a3 4. Nxa3
+{+0.62/2 0.1} b6 5. c4 {+0.74/2 0.1} c5 6. dxc5 {+1.29/2 0.1} bxc5 7. Bxc5
+{+1.30/2 0.1} d5 8. Qxd5 {+2.17/2 0.1} Rxa3 9. Qxd8+ {+4.17/2 0.1} Kxd8 10.
+O-O-O+ {+4.10/2 0.1} Nd7 11. bxa3 {+3.86/2 0.1} e5 12. Bxf8 {+7.57/2 0.1}
+g5 13. Bg7 {+9.62/2 0.1} e4 14. Bxh8 {+9.67/2 0.1} exf3 15. gxf3
+{+9.63/2 0.1} f5 16. Be5 {+9.73/2 0.1} f4 17. Rg1 {+9.88/2 0.1} g4 18. Rxg4
+{+10.99/2 0.1} h5 19. Rxg8+ {+13.60/2 0.1} Ke7 20. Bd6+ {+15.83/2 0.1} Kf7
+21. Rxc8 {+15.94/2 0.1} h4 22. Bxf4 {+16.62/2 0.1} Nf8 23. h3
+{+16.68/2 0.1} Ng6 24. Rd7+ {+16.60/2 0.1} Ne7 25. Rcc7 {+19.18/2 0.1} Kg7
+26. Kd2 {+19.25/2 0.1} Kh7 27. Kc2 {+19.21/2 0.1} Kg7 28. e4 {+19.23/2 0.1}
+Kh7 29. Kc1 {+19.26/2 0.1} Kg7 30. e5 {+19.29/2 0.1} Kh7 31. e6
+{+19.77/2 0.1} Kg7 32. Bd3 {+19.90/2 0.1} Kg8 33. Kd2 {+19.90/2 0.1} Nf5
+34. Rc8# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "9"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d5 {+0.11/2 0.1} 2. a5 Be6 {+0.11/2 0.1} 3. a6 bxa6 {+0.62/2 0.1} 4.
+b4 Nc6 {+0.84/2 0.1} 5. b5 axb5 {+1.33/2 0.1} 6. c3 Nf6 {+1.45/2 0.1} 7. d4
+a5 {+1.40/2 0.1} 8. e3 b4 {+1.36/2 0.1} 9. cxb4 axb4 {+1.47/2 0.1} 10. Ra4
+Rxa4 {+1.48/2 0.1} 11. Qxa4 Qd7 {+1.34/2 0.1} 12. f4 h5 {+1.42/2 0.1} 13.
+g3 g6 {+1.40/2 0.1} 14. h4 Ne4 {+1.41/2 0.1} 15. f5 Bxf5 {+2.19/2 0.1} 16.
+g4 hxg4 {+2.80/2 0.1} 17. Ne2 g3 {+3.37/2 0.1} 18. Nf4 Nc3 {+3.54/2 0.1}
+19. Nxc3 bxc3 {+4.11/2 0.1} 20. Ng2 c2 {+4.70/2 0.1} 21. Nf4 Be4
+{+4.86/2 0.1} 22. Rg1 e5 {+4.28/2 0.1} 23. dxe5 Bb4+ {+4.36/2 0.1} 24. Ke2
+Qg4# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "10"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. c4 {+0.13/2} a5 2. Nf3 {+0.07/2 0.1} a4 3. Nc3 {+0.49/2 0.1} a3 4. bxa3
+{+0.56/2 0.1} b6 5. g4 {+0.66/2 0.1} c5 6. d4 {+0.66/2 0.1} cxd4 7. Nxd4
+{+0.62/2 0.1} d6 8. Bg2 {+0.77/2 0.1} d5 9. Bxd5 {+1.57/2 0.1} Ra5 10. Nb3
+{+2.05/2 0.1} Ra6 11. Bxf7+ {+7.85/2 0.1} Kxf7 12. Qxd8 {+7.76/2 0.1} Bxg4
+13. Qxb8 {+9.49/2 0.1} e6 14. Qb7+ {+13.95/2 0.1} Ne7 15. Qxa6
+{+14.74/2 0.1} b5 16. Qxb5 {+14.75/2 0.1} Nf5 17. Qb7+ {+14.98/2 0.1} Kf6
+18. Ne4+ {+15.14/2 0.1} Kg6 19. f3 {+14.94/2 0.1} Bh5 20. Rg1+
+{+17.49/2 0.1} Ng3 21. Nxg3 {+17.88/2 0.1} e5 22. Qe4+ {+20.48/2 0.1} Kf6
+23. Nxh5+ {+21.23/2 0.1} Ke6 24. Nxg7+ {+21.37/2 0.1} Kf6 25. Qf5+
+{+22.05/2 0.1} Ke7 26. Qxe5+ {+22.13/2 0.1} Kf7 27. Qe6# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "1"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 f5 {+0.14/2 0.1} 2. a5 Nc6 {+0.13/2 0.1} 3. a6 bxa6 {+0.61/2 0.1} 4.
+b3 Nf6 {+0.71/2 0.1} 5. c4 e5 {+0.66/2 0.1} 6. d3 Bb4+ {+0.89/2 0.1} 7. Nd2
+O-O {+0.87/2 0.1} 8. e3 Bc3 {+0.77/2 0.1} 9. Rb1 Bb7 {+0.62/2 0.1} 10. b4
+Nxb4 {+1.32/2 0.1} 11. c5 Bd5 {+1.49/2 0.1} 12. d4 Ba2 {+2.39/2 0.1} 13.
+dxe5 Bxb1 {+3.36/2 0.1} 14. exf6 Qxf6 {+3.20/2 0.1} 15. c6 Qxc6
+{+3.94/2 0.1} 16. e4 Bc2 {+5.01/2 0.1} 17. Qe2 Nd3+ {+7.74/2 0.1} 18. Qxd3
+Bxd3 {+7.75/2 0.1} 19. Bxd3 fxe4 {+7.77/2 0.1} 20. Bxe4 Qxe4+
+{+10.19/2 0.1} 21. Ne2 Rae8 {+12.31/2 0.1} 22. f4 Qxe2# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "2"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. Nc3 {+0.13/2} a5 2. d3 {+0.13/2 0.1} a4 3. Bg5 {+0.11/2 0.1} a3 4. bxa3
+{-0.03/2 0.1} b6 5. Qc1 {+0.58/2 0.1} c5 6. Nf3 {+0.71/2 0.1} d5 7. e4
+{+0.76/2 0.1} d4 8. Nd5 {+0.64/2 0.1} b5 9. c4 {+0.76/2 0.1} bxc4 10. Qxc4
+{+0.60/2 0.1} f5 11. Qxc5 {+1.41/2 0.1} fxe4 12. Nc7+ {+3.30/2 0.1} Kf7 13.
+Ne5# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "3"]
+[White "make"]
+[Black "Fairy-Max 5.0b"]
+[Result "0-1"]
+[TimeControl "300+2"]
+
+1. a4 d5 {+0.09/2 0.1} 2. a5 Bf5 {+0.14/2 0.1} 3. a6 Nxa6 {+0.59/2 0.1} 4.
+b3 Nb4 {+0.76/2 0.1} 5. c3 Nc2+ {+6.55/2 0.1} 6. Qxc2 Bxc2 {+6.62/2 0.1} 7.
+b4 c6 {+6.64/2 0.1} 8. d4 Nf6 {+6.64/2 0.1} 9. e3 Be4 {+6.62/2 0.1} 10. f4
+h5 {+6.61/2 0.1} 11. h4 g6 {+6.59/2 0.1} 12. Nd2 Bf5 {+6.52/2 0.1} 13. g3
+Ng4 {+6.61/2 0.1} 14. Ndf3 Bg7 {+6.59/2 0.1} 15. Ng5 O-O {+6.79/2 0.1} 16.
+N5h3 Be4 {+9.09/2 0.1} 17. Nf3 Bxf3 {+9.22/2 0.1} 18. Rg1 Bf6 {+9.22/2 0.1}
+19. Ng5 Nh2 {+8.88/2 0.1} 20. Nxf3 Nxf3+ {+11.15/2 0.1} 21. Kd1 Nxg1
+{+13.09/2 0.1} 22. Rb1 Nf3 {+13.35/2 0.1} 23. b5 e6 {+13.26/2 0.1} 24. b6
+axb6 {+14.04/2 0.1} 25. Bg2 Nh2 {+13.76/2 0.1} 26. Rb2 Ng4 {+13.99/2 0.1}
+27. Rb1 Nf2+ {+14.22/2 0.1} 28. Ke1 Nd3+ {+14.47/2 0.1} 29. Kf1 Nxc1
+{+14.55/2 0.1} 30. Rxc1 c5 {+14.46/2 0.1} 31. dxc5 bxc5 {+14.30/2 0.1} 32.
+Rb1 Ra3 {+14.43/2 0.1} 33. Rxb7 Rxc3 {+14.55/2 0.1} 34. e4 Rxg3
+{+15.17/2 0.1} 35. exd5 exd5 {+15.26/2 0.1} 36. f5 gxf5 {+15.95/2 0.1} 37.
+Rb1 Bxh4 {+16.53/2 0.1} 38. Rb2 f4 {+16.76/2 0.1} 39. Rb1 f3 {+17.36/2 0.1}
+40. Bh1 Rh3 {+17.31/2 0.1} 41. Bg2 fxg2+ {+18.66/2 0.1} 42. Kg1 Rh1+
+{+23.24/2 0.1} 43. Kxg2 Rxb1 {+23.24/2 0.1}
+{White resigns} 0-1
+
+[Event "Computer Chess Game"]
+[Site "poehler"]
+[Date "2020.04.21"]
+[Round "4"]
+[White "Fairy-Max 5.0b"]
+[Black "make"]
+[Result "1-0"]
+[TimeControl "300+2"]
+
+1. d4 {+0.13/2} a5 2. Be3 {+0.14/2 0.1} a4 3. c4 {+0.03/2 0.1} a3 4. Nxa3
+{+0.62/2 0.1} b6 5. Nf3 {+0.71/2 0.1} c5 6. dxc5 {+1.29/2 0.1} bxc5 7. Bxc5
+{+1.30/2 0.1} d5 8. Qxd5 {+2.17/2 0.1} Rxa3 9. Qxd8+ {+4.17/2 0.1} Kxd8 10.
+O-O-O+ {+4.10/2 0.1} Nd7 11. bxa3 {+3.86/2 0.1} e5 12. Bxf8 {+7.57/2 0.1}
+g5 13. Bg7 {+9.62/2 0.1} e4 14. Bxh8 {+9.67/2 0.1} exf3 15. gxf3
+{+9.63/2 0.1} f5 16. Be5 {+9.73/2 0.1} f4 17. Rg1 {+9.88/2 0.1} g4 18. Rxg4
+{+10.99/2 0.1} h5 19. Rxg8+ {+13.60/2 0.1} Ke7 20. Bd6+ {+15.83/2 0.1} Kf7
+21. Rxc8 {+15.94/2 0.1} h4 22. Bxf4 {+16.62/2 0.1} Nf8 23. h3
+{+16.68/2 0.1} Ng6 24. Rd7+ {+16.60/2 0.1} Ne7 25. Rcc7 {+19.18/2 0.1} Kg7
+26. Kd2 {+19.25/2 0.1} Kh7 27. Kc2 {+19.21/2 0.1} Kg7 28. e4 {+19.23/2 0.1}
+Kh7 29. Kc1 {+19.26/2 0.1} Kg7 30. e5 {+19.29/2 0.1} Kh7 31. e6
+{+19.77/2 0.1} Kg7 32. Bd3 {+19.90/2 0.1} Kg8 33. Kd2 {+19.90/2 0.1} Nf5
+34. Rc8# {+1000.01/2 0.1}
+{Xboard adjudication: Checkmate} 1-0
+
